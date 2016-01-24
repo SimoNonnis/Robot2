@@ -1,0 +1,194 @@
+/******************
+  BASE RULES
+******************/
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary {display:block}
+/* 10px/16*100=62.5%---10px=1rem */
+html {font-size:62.5%;font-family: sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body {font-size:14px;font-size:1.4rem;line-height:1.5;background-color:transparent}
+img {max-width:100%;border:0;vertical-align:middle;-ms-interpolation-mode: bicubic}
+figure {margin:0}
+
+a,a:visited{cursor:pointer;text-decoration:none;-webkit-touch-callout: none;color:white}
+a:focus,a:active,a:hover {outline:0}
+
+h1{font-size:40px;font-size:4rem;margin:0;text-shadow: 1px 1px 0px #000, 3px 3px 0px #40add9, 4px 4px 0px #40add9}
+h2{font-size:19px;font-size:1.9rem;margin:0.83em 0}
+h1,h2{font-family: 'Righteous', sans-serif;font-weight:400;text-transform:uppercase}
+ol,ul {margin:1em 0;padding:0 0 0 2em;list-style:none;list-style-image:none;text-transform: uppercase}
+
+strong {font-weight:bold}
+q {quotes: "\201C" "\201D" "\2018" "\2019"}
+svg:not(:root) {overflow:hidden}
+
+::-moz-selection {background:#40ADD9;color:white;text-shadow:none}
+::selection {background:#40ADD9;color:white;text-shadow:none}
+* {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+
+.chromeframe {margin:0;color:white;text-align:center}.chromeframe a{text-decoration:underline}
+.clearfix:before,.clearfix:after {content: " ";display:table}
+.clearfix:after {clear:both}
+
+.skype{display:none !important}
+
+/******************
+  LAYOUT RULES
+******************/
+html{color:snow;background:#062334;
+     box-shadow: inset rgba(5, 5, 5, 0.5) 0px 50px 110px 30px;
+     -moz-box-shadow: inset rgba(5, 5, 5, 0.5) 0px 50px 110px 30px;
+     -webkit-box-shadow: inset rgba(5, 5, 5, 0.5) 0px 50px 110px 30px
+}
+body{width:85%;margin:0 auto}
+
+/******************
+  MODULES RULES
+******************/
+.banner{margin-top:1.875em;text-transform:uppercase}
+.logo{text-align:center}
+.logo-img{width:35%;margin:0 auto}
+.logo-img img{display:block;margin:0 auto}
+.logo p{font-size:13px;font-size:1.3rem;margin-top:0}
+.address-ul{margin:2.5em 0;padding-left:0}
+.address-ul li:before{content: "\21D2";color:#fff;padding-right:1em}
+
+.main-section{margin-top:2.5em}
+.main-section-block {
+  margin-top: 2.5em;
+  padding-bottom: 2.5em;
+  border-bottom: 1px solid #999;
+  -moz-box-shadow: 0 1px 0 #000;
+  -webkit-box-shadow: 0 1px 0 #000;
+  box-shadow: 0 1px 0 #000;
+}
+.main-section h2{border-left:0.3em solid;font-size:2rem;padding-left:0.5em}
+.main-section-ul {margin-top:3em;padding-left:0}
+.main-section-ul li:before {content: "\2714";color:#fff;padding-right:10px}
+
+.copyright{margin-top:3.5em}
+
+/******************
+  THEME RULES
+******************/
+.contact-us-btn{margin-bottom:2em}
+.contact-us-btn a{display:inline-block;color:white;display:inline-block;border-radius:10px;
+                  -webkit-box-shadow: 0 8px 0 #823a17,  0 15px 20px rgba(0, 0, 0, .5);
+                  -moz-box-shadow: 0 8px 0 #823a17,  0 15px 20px rgba(0, 0, 0, .5);
+                  box-shadow: 0 8px 0 #823a17,  0 15px 20px rgba(0, 0, 0, .5);
+                  -webkit-transition: all .2s ease-in-out;
+                  -moz-transition: all .2s ease-in-out;
+                  transition: all .2s ease-in-out
+}
+.contact-us-btn span{display:inline-block;padding:0.6em 1.6em 0.5em;font-size:1.8rem;text-transform:uppercase;
+                     background:#bb5422;
+                     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FA8246), to(#bb5422));
+                     background: -moz-linear-gradient(top, #FA8246, #BB5422);
+                     text-shadow: 0 -1px 1px rgba(19, 65, 88, .8);
+                     border-radius: 10px;
+                     -webkit-box-shadow: inset 0 -1px 1px rgba(255, 255, 255, .10);
+                     -moz-box-shadow: inset 0 -1px 1px rgba(255, 255, 255, .10);
+                     box-shadow: inset 0 -1px 1px rgba(255, 255, 255, .10);
+                     -webkit-transition: all .2s ease-in-out;
+                     -moz-transition: all .2s ease-in-out;
+                     transition: all .2s ease-in-out;
+}
+#about{border-color: #5be844;text-shadow: 1px 1px 0px #000, 2px 2px 0px #5be844, 3px 3px 0px #5be844}
+#analysis{border-color: #f32fbe;text-shadow: 1px 1px 0px #000, 2px 2px 0px #f32fbe, 3px 3px 0px #f32fbe}
+#contact{border-color: #bb5422;text-shadow: 1px 1px 0px #000, 2px 2px 0px #bb5422, 3px 3px 0px #bb5422}
+
+/******************
+  CHANGING STATES
+******************/
+.contact-us-btn a:active{-webkit-transition: -webkit-transform 0s ease-in-out;
+                          -moz-transition: -moz-transform 0s ease-in-out;
+                          transition: transform 0s ease-in-out;
+                          -webkit-box-shadow: 0 8px 0 #823a17,  0 12px 10px rgba(0, 0, 0, .3);
+                          -moz-box-shadow: 0 8px 0 #823a17,  0 12px 10px rgba(0, 0, 0, .3);
+                          box-shadow: 0 8px 0 #823a17,  0 12px 10px rgba(0, 0, 0, .3);
+}
+
+.contact-us-btn a:active span{-webkit-transition: -webkit-transform 0s ease-in-out;
+                              -moz-transition: -moz-transform 0s ease-in-out;
+                              transition: transform 0s ease-in-out;
+                              -webkit-transform: translate(0, 4px);
+                              -moz-transform: translate(0, 4px);
+                              transform: translate(0, 4px);
+}
+
+/*MEDIA QUERIES*/
+@media only screen and (min-width: 37.5em) {
+html{font-size:65%}
+body{width:75%}
+}
+/**/
+@media only screen and (min-width: 46.875em) {
+body{width:70%}
+}
+/**/
+@media only screen and (min-width: 53.125em) {
+html{font-size:68%}
+}
+/**/
+@media only screen and (min-width: 64em) {
+.logo{float:left}
+.logo-img{width:75%}
+.banner .call-to-act{float:right}
+.banner .address-ul{margin-top:1.2em}
+}
+/**/
+@media only screen and (min-width: 75em) {
+html{font-size:73%}
+}
+/**/
+@media only screen and (min-width: 87.5em) {
+.banner .call-to-act{margin-top:3.4em}
+.banner .address-ul{float:left}
+.banner .contact-us-btn{float:right;margin:2.2em 0 0 5em}
+}
+/**/
+@media only screen and (min-width: 98em) {
+html{font-size:80%}
+}
+/**/
+@media only screen and (min-width: 110em) {
+html{font-size:85%}
+body{width:65%}
+}
+/**/
+@media only screen and (min-width: 130em) {
+html{font-size:90%}
+body{width:55%}
+.banner .call-to-act{margin-top:3em}
+}
+/**/
+@media only screen and (min-width: 140em) {
+html{font-size:95%}
+body{width:50%}
+}
+/**/
+@media only screen and (min-width: 150em) {
+html{font-size:110%}
+body{width:45%}
+}
+/**/
+@media only screen and (min-width: 210em) {
+html{font-size:110%}
+body{width:40%}
+}
+/**/
+@media only screen and (min-width: 230em) {
+html{font-size:120%}
+}
+/**/
+@media only screen and (min-width: 250em) {
+html{font-size:135%}
+}
+
+/******************
+  PRINT RULES
+******************/
+@media print {
+* {background: transparent !important;color:#000!important;box-shadow:none!important;text-shadow:none!important;}
+a,a:visited {text-decoration:underline}a[href]:after {content: "(" attr(href) ")"}
+img {page-break-inside: avoid}img {max-width:100%!important}
+@page {margin:0.5cm}p,h2,h3 {orphans:3;widows:3}h2,h3 {page-break-after:avoid}
+}
