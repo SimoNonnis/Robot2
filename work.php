@@ -13,35 +13,32 @@
 
 
 
-      <!-- <article class="work-article wrapper clearfix theclaremont">
+
+      <article class="work-article wrapper clearfix ar-london">
         <div class="work-txt">
-          <h3><a href="http://dev.claremonthoteldouglas.co.uk/" target="_blank">the claremont</a></h3>
-          <p>Designed For The Business Traveller. 56 luxury en-suite bedrooms,
-             including a range of executive rooms with stunning views of the Isle of Man’s coastline,
-             make The Claremont your ideal business base.
+          <h3><a href="http://artistresidencelondon.co.uk/" target="_blank">Artistresidence London</a></h3>
+          <p>A 10 bedroom boutique hotel with a cool cocktail bar & all-day restaurant,
+             nestled in a peaceful setting just 5 minutes walk from Victoria Station & the hustle &
+             bustle of Central London.
           </p>
         </div>
       </article>
-      <article class="work-article wrapper clearfix mkvdesign">
+      <article class="work-article wrapper clearfix ar-cornwall">
         <div class="work-txt">
-          <h3><a href="http://www.mkvdesign.com/" target="_blank">mkvdesign.com</a></h3>
-          <p>MKV Design is a respected, award-winning, interior architecture and design company.
-             They made business, in the premier hotels, exclusive resorts and private residences.
+          <h3><a href="http://artistresidencecornwall.co.uk/" target="_blank">Artistresidence Cornwall</a></h3>
+          <p>Quirky Hotel In Cornwall. Tucked away in the old quarter of Penzance in a historic Georgian House, this is
+             a fun & friendly boutique retreat featuring 13 bedrooms and 5 apartments. Perfect for exploring West Cornwall.
           </p>
         </div>
       </article>
-      <article class="work-article wrapper clearfix netmonster">
+      <article class="work-article wrapper clearfix ar-brighton">
         <div class="work-txt">
-          <h3><a href="demo/netmonster/home" target="_blank">netmonster</a></h3>
-          <p>Netmonster is a demo that reflects my efforts to build a complex user-interface that works in all modern browsers, tablets
-             and mobile phones (Sorry IE8!). In this demo I make heavy use of javascript and different jquery plugins. Try to scroll the
-             horizontal menu or open the left-side menu swiping with your finger's tip.
+          <h3><a href="http://artistresidencebrighton.co.uk/" target="_blank">Artistresidence Brighton</a></h3>
+          <p>Unique Hotel In Brighton. A 23-bedroom townhouse hotel with 2 restaurants, cocktail
+             bar and ping-pong room centrally located in historic Regency Square with sea-views over the iconic West Pier.
           </p>
         </div>
-      </article> -->
-
-
-
+      </article>
       <article class="work-article wrapper clearfix artistresidence">
         <div class="work-txt">
           <h3><a href="http://www.artistresidence.co.uk/" target="_blank">Artistresidence</a></h3>
