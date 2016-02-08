@@ -64,12 +64,12 @@ svg:not(:root) {overflow:hidden}
 /*.work-icon{float:left;width:30%}*/
 
 
-.bluefin {border-left-color: #6495ED} 
+.bluefin {border-left-color: #6495ED}
 .theclaremont {border-left-color: #383B64}
 .gliffaeshotel {border-left-color: #89D655}
 .mkvdesign {border-left-color: #3D4E39}
 .netmonster {border-left-color: #DFBC31}
-.bio-chem {border-left-color: orangered}
+.chefs-club {border-left-color: orangered}
 .artistresidence,
 .emilyhankins {border-left-color: #B0DBF0}
 
@@ -124,13 +124,13 @@ svg:not(:root) {overflow:hidden}
 .mailto a{background-color:#B2CC33;color:#333;text-shadow: 0 1px 1px #DBD3D3}
 
 
-.social-links { 
-  text-align: center; 
+.social-links {
+  text-align: center;
   clear: both;
 }
-.social-links a { 
+.social-links a {
   display: inline-block;
-  padding: 0.5em 0.9em; 
+  padding: 0.5em 0.9em;
   text-decoration: underline;
 }
 /******************
