@@ -38,3 +38,10 @@ Do one thing at a time, and do it well.
 In other words, with functional programming, we generally try and work out
 the logic of what we’re trying to achieve first, before we do anything that
 has potential side effects.
+
+I pursuit the idea of simpler programming, FP helps me to go in the right direcion
+
+Code is mostly for humans, your teammates or your feature self.
+Your computer only cares about machine code, a series of binary 0s and 1s, that comes from compilation.
+You should strive not just writing code that work correctly, but code that make sense when examined,
+easy to read and refactor, with good quality comments.
