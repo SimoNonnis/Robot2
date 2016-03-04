@@ -10,7 +10,14 @@ easy to read and refactor, with good quality comments.
 ##About
 
 - I build non-framework based responsive sites
-- functional programming certainly gives us a useful
+- Functional programming certainly gives us a useful
+- Good visual design skills and a meticulous eye for detail
+- A good understanding of user experience principles
+- Fluent Git, SASS, BEM, Gulp, npm scripts
+- Ability to design and implement pixel-perfect designs so that they’re pixel perfect
+- A great eye for detail and experience working closely with other designers to fill in the gaps
+- Extensive experience in building mobile-first responsive sites
+- Good understanding of Php
 set of tools for writing JavaScript. But I think there’s more to it than that.
 Functional programming opens up a different style of programming.
 
