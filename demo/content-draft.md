@@ -18,7 +18,13 @@ easy to read and refactor, with good quality comments.
 - A great eye for detail and experience working closely with other designers to fill in the gaps
 - Extensive experience in building mobile-first responsive sites
 - Good understanding of Php
-set of tools for writing JavaScript. But I think there’s more to it than that.
+
+Web development is not all that much about coding, but often
+is about of figuring things out, getting in a mood to solving a small problem after the other;
+sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
+brain doesn't process information, sometimes is fiddling around with configuration files,
+so to get better you need to cultivate your creative process to solve problems one piece at the time
+
 Functional programming opens up a different style of programming.
 
 This in turn allows us to conceptualize problems and solutions in different ways.
