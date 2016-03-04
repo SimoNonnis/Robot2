@@ -1,5 +1,20 @@
 #Content for next version of R2
 
+##Intro Page
+Build for User, Client, Teammates, your future self;
+we mostly write code for humans, interpreter and/or compiler
+take or code as a hint but what the computer will really understand
+is machine language.
+
+##About
+
+
+##Work
+
+##Contact
+
+Built several non-framework based responsive sites
+
 it’s always useful to have more tools available for getting the job done—so long
 as you know how to use them—and functional programming certainly gives us a useful
 set of tools for writing JavaScript. But I think there’s more to it than that.
