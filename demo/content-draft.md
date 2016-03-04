@@ -2,31 +2,23 @@
 
 ##Intro Page
 Build for User, Client, Teammates, your future self;
-we mostly write code for humans, interpreter and/or compiler
-take or code as a hint but what the computer will really understand
-is machine language.
+Code is mostly for humans, your teammates or your feature self.
+Your computer only cares about machine code, a series of binary 0s and 1s, that comes from compilation.
+You should strive not just writing code that work correctly, but code that make sense when examined,
+easy to read and refactor, with good quality comments.
 
 ##About
 
-
-##Work
-
-##Contact
-
-Built several non-framework based responsive sites
-
-it’s always useful to have more tools available for getting the job done—so long
-as you know how to use them—and functional programming certainly gives us a useful
+- I build non-framework based responsive sites
+- functional programming certainly gives us a useful
 set of tools for writing JavaScript. But I think there’s more to it than that.
 Functional programming opens up a different style of programming.
-This in turn allows us to conceptualize problems and solutions in different ways.
+
 This in turn allows us to conceptualize problems and solutions in different ways.
 There are two key features to functional programming:
-Writing pure functions, which is important if you want to give functional
-programming a go; and
-Pointfree programming style, which is not as important but good to understand.
 
-##Purity
+
+###Purity
 If you read about functional programming, you will eventually come across the
 concept of pure and impure functions. Pure functions are functions that fulfill
 two criteria:
@@ -56,7 +48,11 @@ has potential side effects.
 
 I pursuit the idea of simpler programming, FP helps me to go in the right direcion
 
-Code is mostly for humans, your teammates or your feature self.
-Your computer only cares about machine code, a series of binary 0s and 1s, that comes from compilation.
-You should strive not just writing code that work correctly, but code that make sense when examined,
-easy to read and refactor, with good quality comments.
+##Work
+
+##Contact
+
+
+
+
+
