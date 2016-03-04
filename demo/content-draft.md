@@ -25,6 +25,8 @@ sometime is coded related sometime is just doing research about tooling, sometim
 brain doesn't process information, sometimes is fiddling around with configuration files,
 so to get better you need to cultivate your creative process to solve problems one piece at the time
 
+The longer I'm programming and creating software, the more I notice that I build a lot of stuff that requires maintenance even though it should not. In particular a topic that just keeps annoying me is how quickly technology moves forward and how much effort it is to maintain older code that still exists but now stands on ancient foundations.
+
 Functional programming opens up a different style of programming.
 
 This in turn allows us to conceptualize problems and solutions in different ways.
