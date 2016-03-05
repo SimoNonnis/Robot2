@@ -1,6 +1,7 @@
 #Content for next version of R2
 
 ##Intro Page
+making programming simpler
 
 ### Keep it extremely simple
 
