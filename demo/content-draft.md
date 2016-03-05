@@ -1,11 +1,14 @@
 #Content for next version of R2
 
 ##Intro Page
-Build for User, Client, Teammates, your future self;
-Code is mostly for humans, your teammates or your feature self.
-Your computer only cares about machine code, a series of binary 0s and 1s, that comes from compilation.
-You should strive not just writing code that work correctly, but code that make sense when examined,
-easy to read and refactor, with good quality comments.
+
+### Keep it extremely simple
+
+Develop for users, clients, teammates, your future self.
+You should strive not just writing code that works correctly, but code that make sense when examined,
+easy to read and refactor.
+Keep it extremely simple, 'cause code is mostly for humans, computers only cares about machine code.
+
 
 ##About
 
