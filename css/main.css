@@ -70,7 +70,7 @@ svg:not(:root) {overflow:hidden}
 .work-article{border-left: 10px solid}
 .work-article:last-child{margin-bottom:1.3em;}
 .work-txt{padding:0 0.5em}
-/*.work-icon{float:left;width:30%}*/
+.intro-recent-pro {width: 90%;margin-left: auto;margin-right: auto;max-width: 56em}
 
 
 .bluefin {border-left-color: #6495ED}
