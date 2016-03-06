@@ -7,6 +7,7 @@
         <img alt="different-devices" src="img/work/work.png" />
       </div>
       <h2>Recent Work</h2>
+      <p class="u-textCenter">Below you can see a list of my recent projects I’ve worked and that I am proud of:</p>
 
 
 
