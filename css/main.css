@@ -32,6 +32,15 @@ svg:not(:root) {overflow:hidden}
 
 .chromeframe {margin:0;background:#ccc;text-align:center}.chromeframe a{text-decoration:underline}
 /******************
+  UTILITIES
+******************/
+.u-textCenter {
+  text-align:center;
+}
+
+
+
+/******************
   LAYOUT RULES
 ******************/
 .wrapper{width:94%;margin:0 auto}
