@@ -7,15 +7,16 @@
         <img alt="Electric-arc" src="img/contact/contact.png" />
       </div>
       <article class="wrapper clearfix">
-      <h2>Contact</h2>
-        <p>I love working with people that are looking for results, people that see value in craftsmanship and quality.
-           People that want the best work. I don’t take on very many projects a year.
-           To build something great I devote myself exclusively to a single project for time.
-        </p>
-        <p>That means when you hire Robot2, I’m yours for the entire project and only yours.
-           I like to remain connected with my clients and the work I produce for them.
-           If you think this is a great thing, contact me!
-        </p>
+        <h2>Contact</h2>
+          <p>I love working with people that are looking for results and at the same time see value in quality.
+             People that want the best work and are always exploring new ways to simplify workflows.
+             I am a big fun of declarative programming over the imperative approach,
+             I am enthusiast to use technologies like: React, Redux, GraphQl, Falcor, ReactiveJS.
+             So if you are excited like me about this new golden age in web development, contact me.
+          </p>
+          <p>
+            Let’s build something fabulous together!  
+          </p>
       </article>
     </section>
 
