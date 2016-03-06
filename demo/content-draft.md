@@ -14,7 +14,7 @@ Keep it extremely simple, 'cause code is mostly for humans, computers only cares
 ##About
 
 - Ability to translate designs into HTML/CSS/JS
-- Experience with MongoDB, Myql, PostgreSQL, ORMs
+- Experience with MongoDB, Myql, PostgreSQL, ORMs, GraphQL and Falcor
 - Experience with Node.js Express
 - Experience with React/redux, RxJs and Cycle.js
 - Experience with D3,js and leaflet.js for interactive maps
@@ -28,6 +28,11 @@ Keep it extremely simple, 'cause code is mostly for humans, computers only cares
 - Extensive experience in building mobile-first responsive sites
 - Good understanding of Php
 - Ability to work closely with different people within a company, ranging from project managers to digital designers
+
+I am interested to work with pople that understand the limitations of REST APIs and want to discover how GraphQL or Falcor 
+can change the way we request data from endpoints.
+
+Declarative an functionale to correct madness inherit from imperative code
 
 Web development is not all that much about coding, but often
 is about of figuring things out, getting in a mood to solving a small problem after the other;
