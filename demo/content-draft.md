@@ -13,6 +13,11 @@ Keep it extremely simple, 'cause code is mostly for humans, computers only cares
 
 ##About
 
+- Ability to translate designs into HTML/CSS/JS
+- Experience with MongoDB, Myql, PostgreSQL, ORMs
+- Experience with Node.js Express
+- Experience with React/redux, RxJs and Cycle.js
+- Experience with D3,js and leaflet.js for interactive maps
 - I build non-framework based responsive sites
 - Functional programming certainly gives us a useful
 - Good visual design skills and a meticulous eye for detail
@@ -22,6 +27,7 @@ Keep it extremely simple, 'cause code is mostly for humans, computers only cares
 - A great eye for detail and experience working closely with other designers to fill in the gaps
 - Extensive experience in building mobile-first responsive sites
 - Good understanding of Php
+- Ability to work closely with different people within a company, ranging from project managers to digital designers
 
 Web development is not all that much about coding, but often
 is about of figuring things out, getting in a mood to solving a small problem after the other;
