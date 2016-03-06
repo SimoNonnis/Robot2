@@ -69,6 +69,8 @@ I pursuit the idea of simpler programming, FP helps me to go in the right direci
 
 ##Work
 
+Below you can see a list of my recent projects I’ve worked and that I am proud of:
+
 ##Contact
 
 
