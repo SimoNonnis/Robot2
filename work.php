@@ -11,8 +11,7 @@
         Here in this section I like to share a list of my recent projects I’ve worked on and that I am proud of.
         Each of these websites represents an important step of my programming philosophy.
         My part in every project consisted of interacting with graphic designers and project managers designing
-        information architecture, UX, functionalities, setting up infrastructures, building from scratch mobile first
-        responsive sites.
+        information architecture, UX, functionalities, setting up infrastructures, building from scratch responsive websites.
       </p>
 
 
