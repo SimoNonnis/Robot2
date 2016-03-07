@@ -15,12 +15,12 @@
              and most of all they are <strong>affordable</strong>, carefully tailored for your budget.
           </p>
         </div>
-        <figure class="me wrapper">
-          <figcaption>Designer | Developer</figcaption>
-          <img src="img/about/me.png" alt="Simon-Nonnis-vector-portrait" title="Simon Nonnis"/>
-        </figure>
+        <!--<figure class="me wrapper">-->
+        <!--  <figcaption>Designer | Developer</figcaption>-->
+        <!--  <img src="img/about/me.png" alt="Simon-Nonnis-vector-portrait" title="Simon Nonnis"/>-->
+        <!--</figure>-->
         <div class="focused focused-code clearfix">
-          <h2>About Code</h2>
+          <h2>Skill Set</h2>
           <div class="focused-wrapper clearfix">
           <ul class="focused-list">
             <li>html5</li>
