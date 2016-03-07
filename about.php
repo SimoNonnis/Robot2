@@ -23,19 +23,28 @@
           <h2>Skill Set</h2>
           <div class="focused-wrapper clearfix">
           <ul class="focused-list">
-            <li>html5</li>
-            <li>css3</li>
-            <li>wordpress</li>
+            <li>Html</li>
+            <li>Css, scss, BEM</li>
+            <li>Javascript</li>
+            <li>Gulp, npm scripts</li>
+            <li>D3js</li>
+            <li>Leafletjs</li>
           </ul>
           <ul class="focused-list">
-            <li>javascript</li>
-            <li>logo design</li>
-            <li>illustrations</li>
+            <li>Wordpress</li>
+            <li>React</li>
+            <li>RxJs</li>
+            <li>CycleJs</li>
+            <li>Git</li>
+            <li>NodeJs</li>
           </ul>
           <ul class="focused-list">
-            <li>search engine optimization</li>
-            <li>image galleries design</li>
-            <li>speed optimization</li>
+            <li>Sql</li>
+            <li>MongoDB</li>
+            <li>ORMs</li>
+            <li>GraphQL</li>
+            <li>Falcor</li>
+            <li>Php</li>
           </ul>
           </div>
         </div>
