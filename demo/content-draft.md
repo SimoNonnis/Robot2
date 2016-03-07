@@ -1,18 +1,21 @@
 #Content for next version of R2
 
-##Intro Page
-making programming simpler
-
-### Keep it extremely simple
-
-Develop for users, clients, teammates, your future self.
-You should strive not just writing code that works correctly, but code that make sense when examined,
-easy to read and refactor.
-Keep it extremely simple, 'cause code is mostly for humans, computers only cares about machine code.
 
 
-##About
 
+
+
+##About Me
+
+Web development is not all that much about coding, but often
+is about of figuring things out, getting in a mood to solving a small problem after the other;
+sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
+brain doesn't process information, sometimes is fiddling around with configuration files,
+so to get better you need to cultivate your creative process to solve problems one piece at the time
+
+The longer I'm programming and creating software, the more I notice that I build a lot of stuff that requires maintenance even though it should not. In particular a topic that just keeps annoying me is how quickly technology moves forward and how much effort it is to maintain older code that still exists but now stands on ancient foundations.
+
+###Skill Set
 - Ability to translate designs into HTML/CSS/JS
 - Experience with MongoDB, Myql, PostgreSQL, ORMs, GraphQL and Falcor
 - Experience with Node.js Express
@@ -29,18 +32,21 @@ Keep it extremely simple, 'cause code is mostly for humans, computers only cares
 - Good understanding of Php
 - Ability to work closely with different people within a company, ranging from project managers to digital designers
 
+
+###Html
+
+
+###Css
+
+###JS
+
+
 I am interested to work with pople that understand the limitations of REST APIs and want to discover how GraphQL or Falcor 
 can change the way we request data from endpoints.
 
 Declarative an functionale to correct madness inherit from imperative code
 
-Web development is not all that much about coding, but often
-is about of figuring things out, getting in a mood to solving a small problem after the other;
-sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
-brain doesn't process information, sometimes is fiddling around with configuration files,
-so to get better you need to cultivate your creative process to solve problems one piece at the time
 
-The longer I'm programming and creating software, the more I notice that I build a lot of stuff that requires maintenance even though it should not. In particular a topic that just keeps annoying me is how quickly technology moves forward and how much effort it is to maintain older code that still exists but now stands on ancient foundations.
 
 Functional programming opens up a different style of programming.
 
@@ -78,11 +84,8 @@ has potential side effects.
 
 I pursuit the idea of simpler programming, FP helps me to go in the right direcion
 
-##Work
 
-Below you can see a list of my recent projects I’ve worked and that I am proud of:
 
-##Contact
 
 
 
