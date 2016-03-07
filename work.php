@@ -22,8 +22,8 @@
       <article class="work-article wrapper clearfix princ-vic">
         <div class="work-txt">
           <h3><a href="http://princessvictoria.co.uk/" target="_blank">The Princess Victoria</a></h3>
-          <p>With glorious dome-shaped sky lights, intricate cornicing and wood-burning fireplaces,
-             it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
+          <p>Built in 1829, the grand corner building that houses the Princess Victoria was originally 
+             a Victorian gin palace and tram stop, This pub in London it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
              dinners alike.
           </p>
         </div>
@@ -31,10 +31,10 @@
       <article class="work-article wrapper clearfix lady-ott">
         <div class="work-txt">
           <h3><a href="http://theladyottoline.com/" target="_blank">The Lady Ottoline</a></h3>
-          <p>A pretty little pub nestled in the heart of Bloomsbury, The Lady Ottoline offers elegant
-             yet home-comforting food and a welcoming atmosphere, whether you’re unwinding by the glow
-             of our wood-burner in the winter or enjoying a cool breeze in the summer from our gorgeous
-             French doors.
+          <p>A pretty little pub nestled in the heart of Bloomsbury, London. The Lady Ottoline offers elegant
+            food and a welcoming atmosphere, whether you’re unwinding by the glow
+            of our wood-burner in the winter or enjoying a cool breeze in the summer from our gorgeous
+            French doors.
           </p>
         </div>
       </article>
@@ -67,7 +67,7 @@
         <div class="work-txt">
           <h3><a href="http://www.artistresidence.co.uk/" target="_blank">Artistresidence</a></h3>
           <p>An eccentric bunch of fun and friendly hotels in London, Brighton and Cornwall.
-          With each room designed by a different artist, it's an utterly charming place to stay.
+             With each room designed by a different artist, it's an utterly charming place to stay.
           </p>
         </div>
       </article>
@@ -75,7 +75,7 @@
         <div class="work-txt">
           <h3><a href="http://www.chefsclub.com/new-york/" target="_blank">Chefs Club</a></h3>
           <p>Chefs Club New York is a brand new restaurant in downtown Manhattan,
-            serving inventive recipes from Food &amp; Wine's Best New Chefs.
+             serving inventive recipes from Food &amp; Wine's Best New Chefs.
           </p>
         </div>
       </article>
@@ -83,14 +83,15 @@
         <div class="work-txt">
           <h3><a href="http://www.bluefinnyc.com/" target="_blank">Blue Fin</a></h3>
           <p>A modern seafood restaurant, where Broadway energy meets quiet sophistication.
-             Located in the heart of Times Square, Blue Fin is sophisticated and sexy, and offers the freshest sushi, seafood and raw bar.
+             Located in the heart of Times Square, in New York; Blue Fin is sophisticated and sexy, and 
+             offers the freshest sushi, seafood and raw bar.
           </p>
         </div>
       </article>
       <article class="work-article wrapper clearfix gliffaeshotel">
         <div class="work-txt">
           <h3><a href="http://www.gliffaeshotel.com/" target="_blank">Gliffaes Hotel</a></h3>
-          <p>In the heart of the Brecon Beacons National Park, One of the last real fishing hotels,
+          <p>In the heart of the Brecon Beacons National Park, in Walles, Gliffaes is one of the last real fishing hotels,
              this relaxing haven is located off the beaten track in 33 acres of stunning grounds,
              surrounded by magnificent trees and next to the River Usk.
           </p>
