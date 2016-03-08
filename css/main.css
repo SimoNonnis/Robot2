@@ -135,6 +135,9 @@ svg:not(:root) {overflow:hidden}
 .mailto a{background-color:#B2CC33;color:#333;text-shadow: 0 1px 1px #DBD3D3}
 
 .content a { text-decoration: underline; }
+.content a:hover,
+.content a:focus { text-decoration: none; }
+
 .social-links {
   text-align: center;
   clear: both;
