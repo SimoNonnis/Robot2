@@ -10,10 +10,18 @@
       <article class="clearfix">
         <div class="wrapper">
           <h2>About Robot2</h2>
-          <p>Hello! I am <em>Simon Nonnis</em> and Robot2 is my web studio. I am based in London but I work globally. Simply I make websites
-             that actually work but in the meantime are <em>super-fast</em>, <em>awesome</em>, <em>functional</em>
-             and most of all they are <strong>affordable</strong>, carefully tailored for your budget.
+          <p>I'm <em>Simon Nonnis</em>, a frontend developer. Robot2 is my tiny website where 
+             I talk breafly about me and my most relevant work.
           </p>
+          <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a totally different environment and joined 
+             the <a href="http://www.ignitehospitality.com/about/" title="ignitehospitality.com">Ignite Team</a>. 
+             I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress. 
+             I was never a fan of frameworks and premium themes so I've built from scratch 
+             my own WP theme, <a href="https://github.com/SimoNonnis/ZeroWpTheme/blob/master/README.md" title="View on Github">ZeroWPTheme</a>, that was quickly adopted as 
+             a foundation for every new project.
+          </p>
+             
+             
         </div>
         <!--<figure class="me wrapper">-->
         <!--  <figcaption>Designer | Developer</figcaption>-->
