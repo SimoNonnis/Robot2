@@ -27,22 +27,19 @@
             <li>Css, scss, BEM</li>
             <li>Javascript</li>
             <li>Gulp, npm scripts</li>
-            <li>D3js</li>
-            <li>Leafletjs</li>
+            <li>D3js, Leafletjs</li>
           </ul>
           <ul class="focused-list">
             <li>Wordpress</li>
             <li>React</li>
             <li>RxJs</li>
             <li>CycleJs</li>
-            <li>Git</li>
             <li>NodeJs</li>
           </ul>
           <ul class="focused-list">
+            <li>GraphQL</li>
             <li>Sql</li>
             <li>MongoDB</li>
-            <li>ORMs</li>
-            <li>GraphQL</li>
             <li>Falcor</li>
             <li>Php</li>
           </ul>
