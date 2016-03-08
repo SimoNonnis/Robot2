@@ -7,6 +7,18 @@
 
 ##About Me
 
+I'm Simon Nonnis, a frontend developer.
+Robot2 is my tiny website where I talk breafly about me and my most relevant work.
+
+I've been building websites from 2009, freelancing until 2013 when I felt the need to 
+work in a totally different environment and joined the [Ignite Team](http://www.ignitehospitality.com/about/ "ignitehospitality.com"). I've worked there for 2 years, learning to build mobile first, responsive websites
+with wordpress. I was never a fan of frameworks and premium themes so I've built from scratch my own WP theme,
+[ZeroWPTheme](https://github.com/SimoNonnis/ZeroWpTheme/blob/master/README.md "View on Github "), that was quickly adopted as a foundation for every new project.
+
+
+
+
+
 Web development is not all that much about coding, but often
 is about of figuring things out, getting in a mood to solving a small problem after the other;
 sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
