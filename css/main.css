@@ -134,7 +134,7 @@ svg:not(:root) {overflow:hidden}
 .about-btn a{background-color:#5AA4C0}
 .mailto a{background-color:#B2CC33;color:#333;text-shadow: 0 1px 1px #DBD3D3}
 
-
+.content a { text-decoration: underline; }
 .social-links {
   text-align: center;
   clear: both;
