@@ -8,16 +8,16 @@
         <img alt="Mountain-view" src="img/about/about.png" />
       </div>
       <article class="clearfix">
-        <div class="wrapper">
+        <div class="wrapper content">
           <h2>About Robot2</h2>
           <p>I'm <em>Simon Nonnis</em>, a frontend developer. Robot2 is my tiny website where 
              I talk breafly about me and my most relevant work.
           </p>
-          <p class="content">I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a totally different environment and joined 
-             the <a href="http://www.ignitehospitality.com/about/" target="_blank" title="ignitehospitality.com">Ignite Team</a>. 
+          <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a totally different environment and joined 
+             the <a href="http://www.ignitehospitality.com/about/" target="_blank">Ignite Team</a>. 
              I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress. 
              I was never a fan of frameworks and premium themes so I've built from scratch 
-             my own WP theme, <a href="https://github.com/SimoNonnis/ZeroWpTheme/blob/master/README.md" target="_blank"  title="View on Github">ZeroWPTheme</a>, that was quickly adopted as 
+             my own WP theme, <a href="https://github.com/SimoNonnis/ZeroWpTheme" target="_blank" >ZeroWPTheme</a>, that was quickly adopted as 
              a foundation for every new project.
           </p>
           
@@ -27,10 +27,7 @@
              
           <p>Below you can see a short list of languages, tools, software that I love to work with.</p>   
         </div>
-        <!--<figure class="me wrapper">-->
-        <!--  <figcaption>Designer | Developer</figcaption>-->
-        <!--  <img src="img/about/me.png" alt="Simon-Nonnis-vector-portrait" title="Simon Nonnis"/>-->
-        <!--</figure>-->
+  
         <div class="focused focused-code clearfix">
           <h2>Skill Set</h2>
           <div class="focused-wrapper clearfix">
@@ -57,23 +54,19 @@
           </ul>
           </div>
         </div>
-        <div class="wrapper">
-          <h2>About WorkFlow</h2>
-          <p>Every project is different, although there is a solid and general workflow that I follow.</p>
-            <h3><span class="n-workflow">1. </span>Planning</h3>
-            <p>We will have our first meeting about your project. We will discuss Brand development, functionality and design direction.</p>
-            <h3><span class="n-workflow">2. </span>Foundations</h3>
-            <p>We will use the informations outlined in the planning stage to build a solid structure, that works in all major browser
-               and different devices (mobile phones, tablet...). Focus will be on functionality and interactions between pages.
-            </p>
-            <h3><span class="n-workflow">3. </span>Painting</h3>
-            <p>In this important and particular step we will work together on typography, colors, background images and textures.
-               Mainly this step it is all about how to make your website shine.
-            </p>
-            <h3><span class="n-workflow">4. </span>Launch</h3>
-            <p>After a final polishing and testing process we will be ready to go online. Your super fast, hand coded, innovative website
-               will be visible all over the world. The reason for hiring me, after all!
-            </p>
+        <div class="wrapper content">
+          <p>In mid 2015 I felt the need to take a break and dedicate myself to learn Javascript in deep.
+             My goal is to be able to join a team where Javascript is at the forefront on a daily basis.
+             I’m by no means at an expert level and I’m still learning lots. 
+             When it comes to coding no one is the best and if you really enjoy it you’ll always keep progressing.
+          </p>
+          <p>"You don’t know JS" book series by 
+             <a href="https://twitter.com/getify" target="_blank">Kyle Simpson</a> 
+             are a big part into learning relevant information about JavaScript. 
+             All the books are on <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">Github</a> and free to view! 
+             I’ve bought the books <a href="http://www.amazon.com/s/ref=nb_sb_ss_c_0_18?url=search-alias%3Dstripbooks&amp;field-keywords=you+don%27t+know+javascript&amp;sprefix=you+don%27t+know+javascript%2Caps%2C204" target="_blank">hardcopies</a>
+             so I have them for offline reading and more importantly I was able to support Kyle with his good work.
+          </p>
         </div>
       </article>
     </section>
