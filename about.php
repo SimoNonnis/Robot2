@@ -10,7 +10,7 @@
       <article class="clearfix">
         <div class="wrapper content">
           <h2>About Robot2</h2>
-          <p>I'm <em>Simon Nonnis</em>, a frontend developer. Robot2 is my tiny website where 
+          <p>I'm Simon Nonnis, a frontend developer. Robot2 is my tiny website where 
              I talk breafly about me and my most relevant work.
           </p>
           <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a totally different environment and joined 
@@ -73,8 +73,8 @@
              <a href="http://reactivex.io/"  target="_blank">RX</a> or 
              <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a>.
           </p>
-          <p>
-            
+          <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
+             when he advocate against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
         </div>
       </article>
