@@ -33,7 +33,7 @@
           <div class="focused-wrapper clearfix">
           <ul class="focused-list">
             <li>Html</li>
-            <li>Css, scss, BEM</li>
+            <li>CSS, SCSS, BEM</li>
             <li>Javascript</li>
             <li>Gulp, npm scripts</li>
             <li>D3js, Leafletjs</li>
@@ -65,6 +65,9 @@
              All the books are free to read on <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">Github</a>!  
              I’ve bought the books <a href="http://www.amazon.com/s/ref=nb_sb_ss_c_0_18?url=search-alias%3Dstripbooks&amp;field-keywords=you+don%27t+know+javascript&amp;sprefix=you+don%27t+know+javascript%2Caps%2C204" target="_blank">hardcopies</a>
              so I have them for offline reading and more importantly I was able to support Kyle with his good work.
+          </p>
+          <p>
+            
           </p>
         </div>
       </article>
