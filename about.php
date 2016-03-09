@@ -76,9 +76,19 @@
           <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
              when he advocate against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
-          <p>
-            
+          <p>These days I took a shine to Functional programming that opens up a different style of programming.
+             Key concept in FP is split the logic from side effects like: network calls, files read or written, database queries, DOM elements modified; global variables modified.
+             the trouble with this is that the whole point of writing computer programs is the side effects. Making a network call and rendering DOM elements is at the core 
+             of what a web application does; it’s what JavaScript was invented for.
           </p>
+          <p>So what’s an aspiring functional programmer to do? Well, the key is that we don’t avoid impure functions entirely, 
+             we just give them a healthy amount of respect, and put-off dealing with them until we absolutely have to.
+          </p>
+          <p>If you try to perform effects and logic at the same time, you may create hidden side effects which cause bugs in the logic. 
+             Keep functions small. Do one thing at a time, and do it well.
+          </p>
+          <p>I pursuit the idea of simpler programming, FP helps me to go in the right direcion</p>
+          <p></p>
         </div>
       </article>
     </section>
