@@ -5,27 +5,13 @@
 
 
 
-##About Me
-
-I'm Simon Nonnis, a frontend developer.
-Robot2 is my tiny website where I talk breafly about me and my most relevant work.
-
-I've been building websites from 2009, freelancing until 2013 when I felt the need to 
-work in a totally different environment and joined the [Ignite Team](http://www.ignitehospitality.com/about/ "ignitehospitality.com"). I've worked there for 2 years, learning to build mobile first, responsive websites
-with wordpress. I was never a fan of frameworks and premium themes so I've built from scratch my own WP theme,
-[ZeroWPTheme](https://github.com/SimoNonnis/ZeroWpTheme/blob/master/README.md "View on Github "), that was quickly adopted as a foundation for every new project.
 
 
 
 
 
-Web development is not all that much about coding, but often
-is about of figuring things out, getting in a mood to solving a small problem after the other;
-sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
-brain doesn't process information, sometimes is fiddling around with configuration files,
-so to get better you need to cultivate your creative process to solve problems one piece at the time
 
-The longer I'm programming and creating software, the more I notice that I build a lot of stuff that requires maintenance even though it should not. In particular a topic that just keeps annoying me is how quickly technology moves forward and how much effort it is to maintain older code that still exists but now stands on ancient foundations.
+
 
 ###Skill Set
 - Ability to translate designs into HTML/CSS/JS
@@ -45,56 +31,7 @@ The longer I'm programming and creating software, the more I notice that I build
 - Ability to work closely with different people within a company, ranging from project managers to digital designers
 
 
-###Html
 
-
-###Css
-
-###JS
-
-
-I am interested to work with pople that understand the limitations of REST APIs and want to discover how GraphQL or Falcor 
-can change the way we request data from endpoints.
-
-Declarative an functionale to correct madness inherit from imperative code
-
-
-
-Functional programming opens up a different style of programming.
-
-This in turn allows us to conceptualize problems and solutions in different ways.
-There are two key features to functional programming:
-
-
-###Purity
-If you read about functional programming, you will eventually come across the
-concept of pure and impure functions. Pure functions are functions that fulfill
-two criteria:
-Calling the function with the same inputs always returns the same output.
-Calling the function produces no side-effects: No network calls; no files
-read or written; no database queries; no DOM elements modified; no global
-variables modified; and no console output. Nothing.
-
-Now, the trouble with this is that the whole point of writing computer
-programs is the side effects. Making a network call and rendering DOM
-elements is at the core of what a web application does; it’s what JavaScript
-was invented for.
-
-So what’s an aspiring functional programmer to do? Well, the key is that
-we don’t avoid impure functions entirely, we just give them a healthy
-amount of respect, and put-off dealing with them until we absolutely have to.
-
-Logic is thought. Effects are action. Therefore the wise think before acting,
-and act only when the thinking is done.
-If you try to perform effects and logic at the same time, you may create
-hidden side effects which cause bugs in the logic. Keep functions small.
-Do one thing at a time, and do it well.
-
-In other words, with functional programming, we generally try and work out
-the logic of what we’re trying to achieve first, before we do anything that
-has potential side effects.
-
-I pursuit the idea of simpler programming, FP helps me to go in the right direcion
 
 
 
