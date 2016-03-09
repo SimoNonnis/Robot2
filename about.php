@@ -76,6 +76,9 @@
           <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
              when he advocate against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
+          <p>
+            
+          </p>
         </div>
       </article>
     </section>
