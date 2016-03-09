@@ -70,14 +70,6 @@
           </p>
         </div>
       </article>
-      <article class="work-article wrapper clearfix chefs-club">
-        <div class="work-txt">
-          <h3><a href="http://www.chefsclub.com/new-york/" target="_blank">Chefs Club</a></h3>
-          <p>Chefs Club New York is a brand new restaurant in downtown Manhattan,
-             serving inventive recipes from Food &amp; Wine's Best New Chefs.
-          </p>
-        </div>
-      </article>
       <article class="work-article wrapper clearfix bluefin">
         <div class="work-txt">
           <h3><a href="http://www.bluefinnyc.com/" target="_blank">Blue Fin</a></h3>
