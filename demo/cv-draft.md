@@ -1,4 +1,4 @@
-#Content for next version of R2
+#Content for CV
 
 
 
@@ -29,6 +29,7 @@
 - Extensive experience in building mobile-first responsive sites
 - Good understanding of Php
 - Ability to work closely with different people within a company, ranging from project managers to digital designers
+- front-end developer with excellent design sense
 
 
 
