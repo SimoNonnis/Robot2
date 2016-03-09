@@ -87,8 +87,13 @@
           <p>If you try to perform effects and logic at the same time, you may create hidden side effects which cause bugs in the logic. 
              Keep functions small. Do one thing at a time, and do it well.
           </p>
-          <p>I pursuit the idea of simpler programming, FP helps me to go in the right direcion</p>
-          <p></p>
+          <p>I pursuit the idea of simpler programming, FP helps me to go in the right direcion.</p>
+          <p>At the end though Web development is not all that much about coding, but often
+             is about of figuring things out, getting in a mood to solving a small problem after the other.
+             Sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
+             brain doesn't process information, sometimes is fiddling around with configuration files,
+             so to get better you need to cultivate your creative process to solve problems one piece at the time.
+          </p>
         </div>
       </article>
     </section>
