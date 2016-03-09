@@ -63,8 +63,15 @@
              <a href="https://twitter.com/getify" target="_blank">Kyle Simpson</a> 
              are a fundamental resource into my learning process. 
              All the books are free to read on <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">Github</a>!  
-             I’ve bought the books <a href="http://www.amazon.com/s/ref=nb_sb_ss_c_0_18?url=search-alias%3Dstripbooks&amp;field-keywords=you+don%27t+know+javascript&amp;sprefix=you+don%27t+know+javascript%2Caps%2C204" target="_blank">hardcopies</a>
-             so I have them for offline reading and more importantly I was able to support Kyle with his good work.
+             I’ve bought the books <a href="http://www.amazon.com/s/ref=nb_sb_ss_c_0_18?url=search-alias%3Dstripbooks&amp;field-keywords=you+don%27t+know+javascript&amp;sprefix=you+don%27t+know+javascript%2Caps%2C204" target="_blank">hardcopies</a>, 
+             because frequently I need to go back to some chapter and concept, so I have them for offline reading.
+          </p>
+          <p>During this time, I had a look at js frameworks like Angular, Ember or Meteor, 
+             and I’ve come to realise that frameworks come and go so often in JavaScript that picking one might not be the right direction to take.
+             But if you know JavaScript you are in a really good place with 
+             <a href="https://facebook.github.io/react/"  target="_blank">React</a>, 
+             <a href="http://reactivex.io/"  target="_blank">RX</a> or 
+             <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a>.
           </p>
           <p>
             
