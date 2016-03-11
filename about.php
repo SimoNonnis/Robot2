@@ -11,11 +11,11 @@
         <div class="wrapper content">
           <h2>About Robot2</h2>
           <p>I'm Simon Nonnis, a frontend developer. Robot2 is my tiny website where 
-             I talk breafly about me and my most relevant work.
+             I talk about me and my most relevant work.
           </p>
           <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a totally different environment and joined 
              the <a href="http://www.ignitehospitality.com/about/" target="_blank">Ignite Team</a>. 
-             I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress. 
+             I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress in the back-end. 
              I was never a fan of frameworks and premium themes so I've built from scratch 
              my own WP theme, <a href="https://github.com/SimoNonnis/ZeroWpTheme" target="_blank" >ZeroWPTheme</a>, that was quickly adopted as 
              a foundation for every new project.
@@ -68,20 +68,22 @@
           </p>
           <p>During this time, I had a look at js frameworks like Angular, Ember or Meteor, 
              and I’ve come to realise that frameworks come and go so often in JavaScript that picking one might not be the right direction to take.
-             But if you know JavaScript you are in a really good place with 
+             Also they increase your project's complexity, dependencies and limit your scope of creativity.
+             I prefer core-language solutions, small libraries and micro frameworks that are close to vanilla Js as possible,
+             for this reason I really do like:
              <a href="https://facebook.github.io/react/"  target="_blank">React</a>, 
-             <a href="http://reactivex.io/"  target="_blank">RX</a> or 
+             <a href="http://reactivex.io/"  target="_blank">RxJs</a> or 
              <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a>.
           </p>
           <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
-             when he advocate against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
+             when he advocates against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
-          <p>These days I took a shine to Functional programming that opens up a different style of programming.
+          <p>These days I took a shine to functional programming that opens up a different style of programming.
              Key concept in FP is split the logic from side effects like: network calls, files read or written, database queries, DOM elements modified; global variables modified.
-             the trouble with this is that the whole point of writing computer programs is the side effects. Making a network call and rendering DOM elements is at the core 
-             of what a web application does; it’s what JavaScript was invented for.
+             The trouble with this is that the whole point of writing computer programs is the side effects. Making a network call and rendering DOM elements is at the core 
+             of what a web application does. It’s what JavaScript was invented for.
           </p>
-          <p>So what’s an aspiring functional programmer to do? Well, the key is that we don’t avoid impure functions entirely, 
+          <p>So how to solve this problem? Well, the key is that we don’t avoid functions that have side effects entirely, 
              we just give them a healthy amount of respect, and put-off dealing with them until we absolutely have to.
           </p>
           <p>If you try to perform effects and logic at the same time, you may create hidden side effects which cause bugs in the logic. 
