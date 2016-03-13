@@ -13,7 +13,7 @@
         <h2>Keep it extremely simple</h2>
         <p>Develop for users, clients, teammates, your future self. 
            You should strive not just writing code that works correctly, 
-           but code that make sense when examined, easy to read and refactor. 
+           but code that makes sense when examined, easy to read and refactor. 
            Keep it extremely simple, 'cause code is mostly for humans, computers 
            only cares about machine code.
         </p>
