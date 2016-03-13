@@ -8,7 +8,7 @@
       </div>
       <h2>Recent Work</h2>
       <p class="u-textCenter intro-recent-pro">
-        Here in this section I like to share a list of my recent projects I’ve worked on and that I am proud of.
+        In this section I like to share a list of my recent projects I’ve worked on and that I am proud of.
         Each of these websites represents an important step of my programming philosophy.
         My part in every project consisted of interacting with graphic designers and project managers designing
         information architecture, UX, functionalities and at the same time setting up infrastructures, building from scratch these responsive websites.
