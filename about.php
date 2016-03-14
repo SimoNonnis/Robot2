@@ -79,7 +79,7 @@
              when he advocates against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
           <p>These days I took a shine to functional programming that opens up a different style of programming.
-             Key concept in FP is split the logic from side effects like: network calls, files read or written, database queries, DOM elements modified; global variables modified.
+             Key concept in FP is split the logic from side effects like: network calls, files read or written, database queries, modified DOM elements or global variables.
              The trouble with this is that the whole point of writing computer programs is the side effects. Making a network call and rendering DOM elements is at the core 
              of what a web application does. It’s what JavaScript was invented for.
           </p>
