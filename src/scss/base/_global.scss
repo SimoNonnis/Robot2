@@ -1,0 +1,37 @@
+/* ==========================================================================
+Global => glb-
+It may be used in any number of unrelated contexts to the one you can
+currently see it in.
+Alarm bells should ring and you should know to stay well away from it.
+It don’t belong to any one specific component, and can underpin several vastly
+different components, it is incredibly risky to ever modify one.
+Making modifications to these types of class could
+potentially have knock-on effects in a lot of other unrelated places.
+Tread carefully.
+========================================================================== */
+
+
+
+/* Removing Default Styles From Button Tag
+   ========================================================================== */
+.glb-buttonClean {
+  cursor:pointer;
+  border:0;
+  -webkit-appearance:none;
+  outline:0;
+  padding:0;
+  box-shadow:none;
+  user-select:none;
+  text-decoration:none;
+  font-style:normal;
+  color:inherit;
+  background-color: transparent;
+}
+
+/* Reset to list, removing bullte point, margin, padding
+   ========================================================================== */
+.glb-listClean {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
