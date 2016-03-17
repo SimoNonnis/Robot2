@@ -30,7 +30,7 @@ svg:not(:root) {overflow:hidden}
 ::selection {background:#b3d4fc;text-shadow:none}
 * {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
 
-.chromeframe {margin:0;background:#ccc;text-align:center}.chromeframe a{text-decoration:underline}
+.browserupgrade {margin:0;background:#ccc;text-align:center}.browserupgrade a{text-decoration:underline}
 /******************
   UTILITIES
 ******************/

@@ -1,3 +1,8 @@
+<?php
+  $title       = 'Recent Work | Robot2';
+  $description = 'I like to share a list of my recent projects I’ve worked on and that I am proud of. Each of these websites represents an important step of my programming philosophy.';
+?>
+
 <?php include("partials/head.php"); ?>
 
   <?php include("partials/navigation.php"); ?>
@@ -21,7 +26,7 @@
       <article class="work-article wrapper clearfix princ-vic">
         <div class="work-txt">
           <h3><a href="http://princessvictoria.co.uk/" target="_blank">The Princess Victoria</a></h3>
-          <p>Built in 1829, the grand corner building that houses the Princess Victoria was originally 
+          <p>Built in 1829, the grand corner building that houses the Princess Victoria was originally
              a Victorian gin palace and tram stop, This pub in London it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
              dinners alike.
           </p>
@@ -74,7 +79,7 @@
         <div class="work-txt">
           <h3><a href="http://www.bluefinnyc.com/" target="_blank">Blue Fin</a></h3>
           <p>A modern seafood restaurant, where Broadway energy meets quiet sophistication.
-             Located in the heart of Times Square, in New York; Blue Fin is sophisticated and sexy, and 
+             Located in the heart of Times Square, in New York; Blue Fin is sophisticated and sexy, and
              offers the freshest sushi, seafood and raw bar.
           </p>
         </div>

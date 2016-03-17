@@ -1,3 +1,8 @@
+<?php
+  $title       = 'Contact Me | Robot2';
+  $description = 'Let’s build something fabulous together!';
+?>
+
 <?php include("partials/head.php"); ?>
 
   <?php include("partials/navigation.php"); ?>
@@ -15,7 +20,7 @@
              So if you are excited like me about this new golden age in web development, contact me.
           </p>
           <p>
-            Let’s build something fabulous together!  
+            Let’s build something fabulous together!
           </p>
       </article>
     </section>
