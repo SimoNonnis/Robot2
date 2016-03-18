@@ -11,7 +11,7 @@
 
     <section role="main" class="about-section clearfix">
       <div class="big-img">
-        <img alt="Mountain-view" src="img/about/about.png" />
+        <img alt="Mountain view" src="dist/images/about.png" />
       </div>
       <article class="clearfix">
         <div class="wrapper content">

@@ -19,6 +19,7 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" href="css/main.css">
+  <!-- <link rel="stylesheet" href="dist/css/main.min.css"> -->
 </head>
 
 <body>

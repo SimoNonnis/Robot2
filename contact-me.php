@@ -9,7 +9,7 @@
 
     <section role="main" class="contact-section clearfix">
       <div class="big-img">
-        <img alt="Electric-arc" src="img/contact/contact.png" />
+        <img alt="Electric-arc" src="dist/images/contact.png" />
       </div>
       <article class="wrapper clearfix">
         <h2>Contact</h2>

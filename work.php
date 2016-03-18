@@ -9,7 +9,7 @@
 
     <section role="main" class="work-section clearfix">
       <div class="big-img">
-        <img alt="different-devices" src="img/work/work.png" />
+        <img alt="different-devices" src="dist/images/work.png" />
       </div>
       <h2>Recent Work</h2>
       <p class="u-textCenter intro-recent-pro">

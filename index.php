@@ -10,7 +10,7 @@
 
 
     <section class="big-img">
-        <img alt="City-view-behind-robot2" src="img/base.png" />
+        <img alt="Robot in the forefront and a city skyline behind it" src="dist/images/base.png" />
     </section>
 
     <section role="main" class="home-main-section wrapper clearfix">
