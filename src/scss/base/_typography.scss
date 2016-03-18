@@ -1,0 +1,28 @@
+/* ==========================================================================
+   Typo
+   ========================================================================== */
+
+
+
+/* Sets up that Base 10 stuff  10px/16 * 100 = 62.5% => 1rem = 10px
+   ========================================================================== */
+html {
+  font-size: 62.5%;
+  line-height: 22px;
+  font-feature-settings: "liga", "dlig";
+  -webkit-font-smoothing: antialiased;
+}
+
+
+
+
+/* Font Family
+   ========================================================================== */
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-weight:400;
+  -webkit-text-size-adjust:100%;
+  color:#4E4C4C;
+  background-color:#F4F7F6;
+  -webkit-font-smoothing: antialiased;
+}
