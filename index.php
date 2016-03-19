@@ -13,8 +13,8 @@
         <img alt="Robot in the forefront and a city skyline behind it" src="dist/images/base.png" />
     </section>
 
-    <section role="main" class="home-main-section wrapper clearfix">
-      <article class="home-main-article clearfix">
+    <section role="main" class="home-main-section glb-wrapper u-cf">
+      <article class="home-main-article u-cf">
         <h2>Keep it extremely simple</h2>
         <p>Develop for users, clients, teammates, your future self.
            You should strive not just writing code that works correctly,

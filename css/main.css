@@ -3,7 +3,7 @@
 ******************/
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary {display:block}
 /* 10px/16*100=62.5%---10px=1rem */
-html {font-size:62.5%;font-family: 'Open Sans', sans-serif;font-weight:400;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
+html {font-size:62.5%;font-family: 'Open Sans', sans-serif;font-weight:400; -webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;
       color:#4E4C4C;background-color:#F4F7F6;-webkit-font-smoothing: antialiased;
 }
 body {font-size:14px;font-size:1.4rem;line-height:1.5;margin:0;background-color:#F4F7F6}
@@ -19,6 +19,7 @@ h1 {font-size:35px;font-size:3.5rem;margin:0;font-family: 'Wendy One', sans-seri
 }
 h2 {font-size:19px;font-size:1.9rem;margin:0.83em 0}
 h3 {font-size:16px;font-size:1.6rem;margin:1em 0}
+
 ol,ul {margin:1em 0;padding:0 0 0 2em;list-style:none;list-style-image:none}
 p {color:#444;text-align:justify}
 
@@ -38,8 +39,6 @@ svg:not(:root) {overflow:hidden}
   text-align:center;
 }
 
-
-
 /******************
   LAYOUT RULES
 ******************/
@@ -47,6 +46,11 @@ svg:not(:root) {overflow:hidden}
 .wrapper-cta{margin:0 auto}
 .clearfix:before,.clearfix:after {content: " ";display:table}
 .clearfix:after {clear:both}
+
+
+
+
+
 /******************
   MODULES RULES
 ******************/

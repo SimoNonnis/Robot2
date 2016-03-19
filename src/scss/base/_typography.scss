@@ -8,21 +8,62 @@
    ========================================================================== */
 html {
   font-size: 62.5%;
-  line-height: 22px;
   font-feature-settings: "liga", "dlig";
   -webkit-font-smoothing: antialiased;
+  color: $text-color;
+}
+
+body {
+  font-size:1.4rem;
+  line-height:1.5;
 }
 
 
 
 
-/* Font Family
+
+
+/* Font Family and more...
    ========================================================================== */
 html {
   font-family: 'Open Sans', sans-serif;
   font-weight:400;
-  -webkit-text-size-adjust:100%;
-  color:#4E4C4C;
-  background-color:#F4F7F6;
-  -webkit-font-smoothing: antialiased;
+}
+
+
+h1 {
+  font-size:3.5rem;
+  margin:0;
+  font-family: 'Wendy One', sans-serif;
+  font-weight:400;
+  text-transform:uppercase;
+}
+
+h2 {
+  font-size:1.9rem;
+  margin:0.83em 0;
+}
+
+h3 {
+  font-size:1.6rem;
+  margin:1em 0;
+}
+
+
+/* Links
+   ========================================================================== */
+a,
+a:visited {
+  cursor: pointer;
+  color: $text-color;
+  -webkit-touch-callout: none;
+}
+
+a:focus {
+  outline: thin dotted;
+}
+
+a:active,
+a:hover {
+  outline:0;
 }

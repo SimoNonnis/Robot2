@@ -9,12 +9,12 @@
   <?php include("partials/navigation.php"); ?>
 
 
-    <section role="main" class="about-section clearfix">
+    <section role="main" class="about-section u-cf">
       <div class="big-img">
         <img alt="Mountain view" src="dist/images/about.png" />
       </div>
-      <article class="clearfix">
-        <div class="wrapper content">
+      <article class="u-cf">
+        <div class="glb-wrapper content">
           <h2>About Robot2</h2>
           <p>I'm Simon Nonnis, a frontend developer. Robot2 is my tiny website where
              I talk about me and my most relevant work.
@@ -34,24 +34,24 @@
           <p>Below you can see a short list of languages, tools, softwares that I love to work with.</p>
         </div>
 
-        <div class="focused focused-code clearfix">
+        <div class="focused focused-code u-cf">
           <h2>Skill Set</h2>
-          <div class="focused-wrapper clearfix">
-          <ul class="focused-list">
+          <div class="focused-wrapper u-cf">
+          <ul class="glb-listClean focused-list">
             <li>Html</li>
             <li>CSS, SCSS, BEM</li>
             <li>Javascript</li>
             <li>Gulp, npm scripts</li>
             <li>D3js, Leafletjs</li>
           </ul>
-          <ul class="focused-list">
+          <ul class="glb-listClean focused-list">
             <li>Wordpress</li>
             <li>React</li>
             <li>RxJs</li>
             <li>CycleJs</li>
             <li>NodeJs</li>
           </ul>
-          <ul class="focused-list">
+          <ul class="glb-listClean focused-list">
             <li>GraphQL</li>
             <li>Sql</li>
             <li>MongoDB</li>
@@ -60,7 +60,7 @@
           </ul>
           </div>
         </div>
-        <div class="wrapper content">
+        <div class="glb-wrapper content">
           <p>In mid 2015 I felt the need to take a break and dedicate myself to learn Javascript in deep.
              My goal is to be able to join a team where Javascript is at the forefront on a daily basis.
              I am not at an expert level but when it comes to coding if you really enjoy it you’ll always keep progressing.
