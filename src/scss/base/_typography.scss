@@ -19,6 +19,32 @@ body {
 }
 
 
+/* Font bump
+   ========================================================================== */
+@include min-screen(34.375em) {
+  html{font-size:65%}
+  h2 {font-size:2rem}
+  h3 {font-size:1.7rem}
+}
+
+@include min-screen(48em) {
+  html{font-size:70%}
+  h2 {font-size:2.2rem}
+  h3 {font-size:1.9rem}
+}
+
+@include min-screen(62em) {
+  html{font-size:75%}
+  h2 {font-size:2.4rem}
+  h3 {font-size:2.1rem}
+}
+
+@include min-screen(75em) {
+  html{font-size:79%}
+  h2 {font-size:2.5rem}
+  h3 {font-size:2.2rem}  
+}
+
 
 
 

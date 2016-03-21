@@ -19,6 +19,29 @@ Tread carefully.
   margin:0 auto;
 }
 
+.glb-header {
+  background-color: $white;
+  border-bottom: 1px solid $border-color;
+}
+
+@include min-screen(75em) {
+  .glb-header-container {
+    width:80%;
+    margin:0 auto 1em;
+  }
+}
+
+@include min-screen(86.375em) {
+  .glb-wrapper,
+  .glb-wrapper-cta,
+  .glb-header-container {
+    width:75%;
+    max-width:86.375em;
+  }
+}
+
+
+
 /* Removing Default Styles From Button Tag
    ========================================================================== */
 .glb-buttonClean {

@@ -42,14 +42,10 @@ svg:not(:root) {overflow:hidden}
 /******************
   LAYOUT RULES
 ******************/
-.wrapper{width:94%;margin:0 auto}
-.wrapper-cta{margin:0 auto}
+.glb-wrapper{width:94%;margin:0 auto}
+.glb-wrapper-cta{margin:0 auto}
 .clearfix:before,.clearfix:after {content: " ";display:table}
 .clearfix:after {clear:both}
-
-
-
-
 
 /******************
   MODULES RULES
@@ -57,14 +53,30 @@ svg:not(:root) {overflow:hidden}
 .logo{text-align:center;margin-top:0.5em}
 .logo p{display:none}
 
+
+
+
+
+
+
+
+
 .nav-list{margin:0;padding:1em 0;text-align:center}
 .nav-list li{display:inline}
 .nav-list a{padding:0.5em 0.9em}
 .main-nav{text-transform:uppercase}
 .main-nav a{padding:1em;font-size:13px;font-size:1.3rem}
 
+
+
+
 .me{text-align:center;margin:2.3em auto}
 .me figcaption{font-weight:bold;margin:2.3em 0}
+
+
+
+
+
 
 .focused-list {margin-top:0}
 .focused h2{text-align:center}
@@ -116,10 +128,19 @@ svg:not(:root) {overflow:hidden}
 .footer{background-color:#F4F7F6;padding-top:1.3em}
 .footer p{text-align:center}
 .footer strong{letter-spacing:0.1em}
+
+
+
+
+
+
+
+
+
 /******************
   THEME RULES
 ******************/
-.header{background-color:white;border-bottom: 1px solid #DFDFDF}
+.glb-header{background-color:white;border-bottom: 1px solid #DFDFDF}
 
 .home-main-section{background-color:#F4F7F6}
 .about-section,.work-section,.contact-section{background-color:#F4F7F6}
@@ -180,10 +201,10 @@ a{-webkit-transition: 0.3s ease-out;-moz-transition: 0.3s ease-out;-o-transition
 }
 /**/
 @media only screen and (min-width: 34.375em) {
-html{font-size:65%}
-h2 {font-size:20px;font-size:2rem}
-h3 {font-size:17px;font-size:1.7rem}
-.wrapper,.wrapper-cta{width:90%}
+/*x*/ html{font-size:65%}
+/*x*/ h2 {font-size:20px;font-size:2rem}
+/*x*/ h3 {font-size:17px;font-size:1.7rem}
+.glb-wrapper,.glb-wrapper-cta{width:90%}
 .home-main-article{width:90%}
 }
 /**/
@@ -196,10 +217,10 @@ h3 {font-size:17px;font-size:1.7rem}
 }
 /**/
 @media only screen and (min-width: 48em) {
-html{font-size:70%}
-h2 {font-size:22px;font-size:2.2rem}
-h3 {font-size:19px;font-size:1.9rem}
-.wrapper,.wrapper-cta{width:85%}
+/*x*/ html{font-size:70%}
+/*x*/ h2 {font-size:22px;font-size:2.2rem}
+/*x*/ h3 {font-size:19px;font-size:1.9rem}
+.glb-wrapper,.glb-wrapper-cta{width:85%}
 
 .home-main-article{width:80%}
 .home-main-article h2{font-size:25px;font-size:2.5rem}
@@ -210,14 +231,14 @@ h3 {font-size:19px;font-size:1.9rem}
 }
 /**/
 @media only screen and (min-width: 56.25em) {
-.wrapper,.wrapper-cta{width:80%}
+.glb-wrapper,.glb-wrapper-cta{width:80%}
 .work-icon{width:20%}
 }
 /**/
 @media only screen and (min-width: 62em) {
-html{font-size:75%}
-h2 {font-size:24px;font-size:2.4rem}
-h3 {font-size:21px;font-size:2.1rem}
+/*x*/ html{font-size:75%}
+/*x*/ h2 {font-size:24px;font-size:2.4rem}
+/*x*/ h3 {font-size:21px;font-size:2.1rem}
 
 .home-main-article h2{font-size:25px;font-size:2.5rem}
 .home-main-article p{font-size:17px;font-size:1.7rem}
@@ -226,14 +247,14 @@ h3 {font-size:21px;font-size:2.1rem}
 }
 /**/
 @media only screen and (min-width: 75em) {
-html{font-size:79%}
-h2 {font-size:25px;font-size:2.5rem}
-h3 {font-size:22px;font-size:2.2rem}
+/*x*/ html{font-size:79%}
+/*x*/ h2 {font-size:25px;font-size:2.5rem}
+/*x*/ h3 {font-size:22px;font-size:2.2rem}
 
-.header-container{width:80%;margin:0 auto 1em}
-.logo{float:left;text-align:left}
-h1{font-size:35px;font-size:3.5rem;line-height:1.4}
-.logo p{margin-left:0.175em;font-size:15px;font-size:1.5rem}
+/*x*/ .glb-header-container{width:80%;margin:0 auto 1em}
+/*x*/ .logo{float:left;text-align:left}
+/*x*/ h1{font-size:35px;font-size:3.5rem;line-height:1.4}
+/*x*/ .logo p{margin-left:0.175em;font-size:15px;font-size:1.5rem}
 .main-nav{float:right;margin-top:1.4em}
 
 .nav-list a,
@@ -251,7 +272,7 @@ h1{font-size:35px;font-size:3.5rem;line-height:1.4}
 .home-main-article h2{font-size:27px;font-size:2.7rem}
 .home-main-article p{font-size:19px;font-size:1.9rem}
 
-.logo p{display:inline}
+/*x*/ .logo p{display:inline}
 
 .section-ctaction a{width:34%}
 .social-links a:active,
@@ -259,10 +280,10 @@ h1{font-size:35px;font-size:3.5rem;line-height:1.4}
 .social-links a:hover {color: #5AA4C0}
 }
 /**/
-@media only screen and (min-width: 86.375em) {
-.wrapper,.wrapper-cta,.header-container{width:75%}
-.wrapper,.wrapper-cta,.header-container{max-width:86.375em}
-}
+/*x*/ @media only screen and (min-width: 86.375em) {
+/*x*/ .glb-wrapper,.glb-wrapper-cta,.glb-header-container{width:75%}
+/*x*/ .glb-wrapper,.glb-wrapper-cta,.glb-header-container{max-width:86.375em}
+/*x*/ }
 /**/
 @media only screen and (min-width: 93.75em) {
 .work-icon{width:15%}
