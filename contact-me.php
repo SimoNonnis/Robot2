@@ -11,7 +11,7 @@
       <div class="big-img">
         <img alt="Electric-arc" src="dist/images/contact.png" />
       </div>
-      <article class="glb-wrapper u-cf">
+      <article class="g-wrapper u-cf">
         <h2>Contact</h2>
           <p>I love working with people that are looking for results and at the same time see value in quality.
              People that want the best work and are always exploring new ways to simplify workflows.
@@ -26,7 +26,7 @@
     </section>
 
     <section class="mailto section-ctaction edge-css">
-      <div class="glb-wrapper-cta u-cf">
+      <div class="g-wrapper-cta u-cf">
         <a href="mailto:simononnis@gmail.com?subject=Robot2 | Website Enquiry">simononnis@gmail.com</a>
       </div>
     </section>

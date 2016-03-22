@@ -1,5 +1,5 @@
 
-<ul class="glb-listClean nav-list u-cf">
+<ul class="g-listClean nav-list u-cf">
   <li class="home-a"><a href="/">home</a></li>
   <li class="about-a"><a href="about">about</a></li>
   <li class="work-a"><a href="work">work</a></li>

@@ -1,5 +1,5 @@
 /* ==========================================================================
-Global => glb-
+Global => g-
 It may be used in any number of unrelated contexts to the one you can
 currently see it in.
 Alarm bells should ring and you should know to stay well away from it.
@@ -10,31 +10,40 @@ potentially have knock-on effects in a lot of other unrelated places.
 Tread carefully.
 ========================================================================== */
 
-.glb-wrapper {
+.g-wrapper {
   width:94%;
   margin:0 auto;
 }
 
-.glb-wrapper-cta {
+.g-wrapper-cta {
   margin:0 auto;
 }
 
-.glb-header {
+.g-header {
   background-color: $white;
   border-bottom: 1px solid $border-color;
 }
 
+@include min-screen(48em) {
+  .g-wrapper,.g-wrapper-cta{width:85%}  
+}
+
+@include min-screen(56.25em) {
+  .g-wrapper,.g-wrapper-cta{width:80%}
+}
+
+
 @include min-screen(75em) {
-  .glb-header-container {
+  .g-header-container {
     width:80%;
     margin:0 auto 1em;
   }
 }
 
 @include min-screen(86.375em) {
-  .glb-wrapper,
-  .glb-wrapper-cta,
-  .glb-header-container {
+  .g-wrapper,
+  .g-wrapper-cta,
+  .g-header-container {
     width:75%;
     max-width:86.375em;
   }
@@ -44,7 +53,7 @@ Tread carefully.
 
 /* Removing Default Styles From Button Tag
    ========================================================================== */
-.glb-buttonClean {
+.g-buttonClean {
   cursor:pointer;
   border:0;
   -webkit-appearance:none;
@@ -60,7 +69,7 @@ Tread carefully.
 
 /* Reset to list, removing bullet point, margin, padding
    ========================================================================== */
-.glb-listClean {
+.g-listClean {
   margin: 0;
   list-style: none;
   padding: 0;

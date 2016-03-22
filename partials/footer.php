@@ -1,5 +1,5 @@
 <footer role="contentinfo" class="footer">
-<div class="glb-wrapper footer-container u-cf">
+<div class="g-wrapper footer-container u-cf">
   <p class="footer-email">
     <strong>email:</strong>
     <span>simononnis@gmail.com</span>

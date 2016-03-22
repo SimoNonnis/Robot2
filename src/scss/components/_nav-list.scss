@@ -8,27 +8,24 @@ Should not affect anything else in the site other than the Component itself.
 
 
 
-/* Logo
+/* Nav list
    ========================================================================== */
-
-.logo{
+.nav-list{
+  margin:0;
+  padding:1em 0;
   text-align:center;
-  margin-top:0.5em;
 }
+.nav-list li { display:inline; }
+.nav-list a { padding:0.5em 0.9em; }
 
-.logo p {
-  display:none;
+.main-nav{text-transform:uppercase}
+.main-nav a{padding:1em;font-size:13px;font-size:1.3rem}
+
+@include min-screen(30.0625em) {
+  .main-nav a{font-size:14px;font-size:1.4rem}
 }
 
 @include min-screen(75em) {
-  .logo {
-    float:left;
-    text-align:left;
-  }
-
-  .logo p {
-    margin-left:0.175em;
-    font-size:1.5rem;
-    display: inline;
-  }
+  .main-nav{float:right;margin-top:1.4em}
+  .footer-nav{float:right}  
 }
