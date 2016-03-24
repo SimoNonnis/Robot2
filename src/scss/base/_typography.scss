@@ -42,7 +42,7 @@ body {
 @include min-screen(75em) {
   html{font-size:79%}
   h2 {font-size:2.5rem}
-  h3 {font-size:2.2rem}  
+  h3 {font-size:2.2rem}
 }
 
 
@@ -92,4 +92,25 @@ a:focus {
 a:active,
 a:hover {
   outline:0;
+}
+
+
+a{transition: 0.3s ease-out}
+
+.nav-list a,.work-article a{text-decoration:underline}
+.nav-list a:active,.nav-list a:focus,.nav-list a:hover,
+.work-article a:active,.work-article a:focus,.work-article a:hover,
+.social-links a:active, .social-links a:focus, .social-links a:hover {text-decoration:none}
+
+.edge-css a:active,.edge-css a:focus,.edge-css a:hover{background-color:#FF1400}
+.about-btn a:active,.about-btn a:focus,.about-btn a:hover{background-color:#3593B6}
+.mailto a:active,.mailto a:focus,.mailto a:hover{background-color:#9DBD07}
+
+@include min-screen(75em) {
+  .nav-list a,
+  .social-links a {text-decoration:none}
+  .home-a a:hover,.home-a a:focus{color:#0C1425}
+  .about-a a:hover,.about-a a:focus{color:#5AA4C0}
+  .work-a a:hover,.work-a a:focus{color:#ff3000}
+  .contact-a a:hover,.contact-a a:focus{color:#B2CC33}
 }
