@@ -12,7 +12,7 @@
         <img alt="Electric-arc" src="dist/images/contact.png" />
       </div>
       <article class="g-wrapper u-cf">
-        <h2>Contact</h2>
+        <h2 class="[ u-textCenter ]">Contact</h2>
           <p>I love working with people that are looking for results and at the same time see value in quality.
              People that want the best work and are always exploring new ways to simplify workflows.
              I am a big fun of declarative programming over the imperative approach,

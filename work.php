@@ -11,7 +11,7 @@
       <div class="big-img">
         <img alt="different-devices" src="dist/images/work.png" />
       </div>
-      <h2>Recent Work</h2>
+      <h2 class="[ u-textCenter ]">Recent Work</h2>
       <p class="u-textCenter intro-recent-pro">
         In this section I like to share a list of my recent projects I’ve worked on and that I am proud of.
         Each of these websites represents an important step of my programming philosophy.

@@ -13,14 +13,13 @@
         <img alt="Robot in the forefront and a city skyline behind it" src="dist/images/base.png" />
     </section>
 
-    <section role="main" class="home-main-section g-wrapper u-cf">
+    <section role="main" class="home-main-section g-wrapper [ u-textCenter u-cf ]">
       <article class="home-main-article u-cf">
         <h2>Keep it extremely simple</h2>
-        <p>Develop for users, clients, teammates, your future self.
-           You should strive not just writing code that works correctly,
-           but code that makes sense when examined, easy to read and refactor.
-           Keep it extremely simple, 'cause code is mostly for humans, computers
-           only cares about machine code.
+        <p>Because complexity is the enemy of productivity.
+           As a developer my job is to find the simplest solution to a problem.
+           A solution that works, is performant, is easy to understand
+           and doesn't take too long to implement.
         </p>
       </article>
     </section>

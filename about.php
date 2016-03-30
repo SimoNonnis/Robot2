@@ -15,7 +15,7 @@
       </div>
       <article class="u-cf">
         <div class="g-wrapper content">
-          <h2>About Robot2</h2>
+          <h2 class="[ u-textCenter ]">About Robot2</h2>
           <p>I'm Simon Nonnis, a frontend developer. Robot2 is my tiny website where
              I talk about me and my most relevant work.
           </p>
@@ -81,6 +81,7 @@
              <a href="http://reactivex.io/"  target="_blank">RxJs</a> or
              <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a>.
           </p>
+          <p>For the most part best practices of React, for example, are just JavaScript best practices.</p>
           <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
              when he advocates against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
