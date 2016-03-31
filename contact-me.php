@@ -27,7 +27,7 @@
 
     <section class="mailto section-ctaction edge-css">
       <div class="g-wrapper-cta u-cf">
-        <a href="mailto:simononnis@gmail.com?subject=Robot2 | Website Enquiry">simononnis@gmail.com</a>
+        <a class="u-noTextDecoration" href="mailto:simononnis@gmail.com?subject=Robot2 | Website Enquiry">simononnis@gmail.com</a>
       </div>
     </section>
 
