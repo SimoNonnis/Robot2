@@ -1,0 +1,48 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+html {
+  background-color: $bg-color;
+}
+
+body {
+  background-color: $bg-color;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  -ms-interpolation-mode: bicubic;
+}
+
+p {
+  text-align:justify
+}
+
+
+/* Selection
+   ========================================================================== */
+::selection {
+  background: $selection;
+  text-shadow:none;
+}
+
+
+
+/* Browser upgrade for IE9 and <
+   ========================================================================== */
+.browserupgrade {
+  margin: 0;
+  padding: 0.5em;
+  background-color: $browser-up-bg;
+  text-align:center;
+}
+
+.browserupgrade a {
+  text-decoration:underline;
+}

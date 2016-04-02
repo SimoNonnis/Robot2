@@ -1,0 +1,29 @@
+/* ==========================================================================
+Component => c-
+This is a concrete, implementation-specific piece of UI.
+Usually when we make changes to a Component’s ruleset, we will immediately
+see those changes happening every (and only) where we’d expect.
+Should not affect anything else in the site other than the Component itself.
+========================================================================== */
+
+
+
+/* Skill set area
+   ========================================================================== */
+.focused{border-top:5px solid #DFDFDF;border-bottom:5px solid #C5C4C4}
+.focused-code{background:#0C1425;border-top-color: #5AA4C0;border-bottom-color:#5AA4C0}
+.focused-code h2{color:#B2CC33}
+.focused-code .focused-list{color:snow}
+
+
+
+.focused-list {margin-top:0;padding: 0 0 0 2em;}
+.focused h2{text-align:center}
+.focused-wrapper{margin: 0 auto 0.7em auto}
+.focused-list li:before{content:"\2713";color:#ff3000;margin-right: 0.4em}
+
+@include min-screen(30.0625em) {
+  .focused{text-align:center}
+  .focused-wrapper{display:inline-block}
+  .focused-list{float:left;text-align:left;vertical-align:top}
+}

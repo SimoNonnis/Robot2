@@ -11,5 +11,8 @@ Thumbs.db
 # Logs and databases #
 ######################
 *.log
-
 .ftpquota
+
+# Folders #
+######################
+node_modules

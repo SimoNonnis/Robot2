@@ -1,0 +1,78 @@
+/* ==========================================================================
+Component => c-
+This is a concrete, implementation-specific piece of UI.
+Usually when we make changes to a Component’s ruleset, we will immediately
+see those changes happening every (and only) where we’d expect.
+Should not affect anything else in the site other than the Component itself.
+========================================================================== */
+
+
+
+/* Call to Action
+   ========================================================================== */
+.section-ctaction {
+  padding:3em 1.3em;
+  text-align:center;
+  background: url('../images/grid-pattern.png');
+  border-top: 1px solid #DFDFDF;
+  border-bottom: 1px solid #C5C4C4;
+  background-color:white;
+}
+
+.section-ctaction a {
+  display:block;
+  padding: 1em 1.6em;
+  border-radius:4px;
+  border: 8px solid rgba(245, 245, 245, 0.2);
+}
+
+.edge-css a{
+  background-clip:padding-box;
+  background-origin:padding-box;
+  box-shadow:0 6px 10px rgba(0,0,0,.6);
+
+  text-shadow: 0 -1px -1px grey
+}
+
+// without background-color backround-clip doesn't work!
+.edge-css a {
+  background-color:#ff3000;
+  background-image:url('../images/ctaction-pattern.png')
+}
+
+.about-btn a {
+  background-color:#5AA4C0;
+}
+
+.mailto {
+  margin-top:1.2em;
+}
+
+.mailto a {
+  background-color:#B2CC33;
+  color:#333;
+  text-shadow: 0 1px 1px #DBD3D3;
+}
+
+@media only screen and (min-width: 30.0625em) {
+  .section-ctaction a {
+    width:72%;
+    margin:0 auto;
+  }
+}
+
+@media only screen and (min-width: 37.5em) {
+  .section-ctaction a{width:62%}
+}
+
+@media only screen and (min-width: 48em) {
+  .section-ctaction a{width:55%}
+}
+
+@media only screen and (min-width: 62em) {
+  .section-ctaction a{width:47%}
+}
+
+@media only screen and (min-width: 75em) {
+  .section-ctaction a{width:34%}
+}

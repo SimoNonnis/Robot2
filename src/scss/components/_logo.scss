@@ -1,0 +1,34 @@
+/* ==========================================================================
+Component => c-
+This is a concrete, implementation-specific piece of UI.
+Usually when we make changes to a Component’s ruleset, we will immediately
+see those changes happening every (and only) where we’d expect.
+Should not affect anything else in the site other than the Component itself.
+========================================================================== */
+
+
+
+/* Logo
+   ========================================================================== */
+
+.logo{
+  text-align:center;
+  margin-top:0.5em;
+}
+
+.logo p {
+  display:none;
+}
+
+@include min-screen(75em) {
+  .logo {
+    float:left;
+    text-align:left;
+  }
+
+  .logo p {
+    margin-left:0.175em;
+    font-size:1.5rem;
+    display: inline;
+  }
+}

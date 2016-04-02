@@ -1,0 +1,30 @@
+/* ==========================================================================
+Component => c-
+This is a concrete, implementation-specific piece of UI.
+Usually when we make changes to a Component’s ruleset, we will immediately
+see those changes happening every (and only) where we’d expect.
+Should not affect anything else in the site other than the Component itself.
+========================================================================== */
+
+
+
+/* Work Page
+   ========================================================================== */
+.work-article{border-left: 10px solid}
+.work-article:last-child{margin-bottom:1.3em;}
+.work-txt{padding:0 0.5em}
+.intro-recent-pro {width: 90%;margin-left: auto;margin-right: auto;max-width: 56em}
+
+
+.work-article:nth-child(odd){background-color:white}
+
+.bluefin {border-left-color: #6495ED}
+.ar-london {border-left-color: #ea2503}
+.gliffaeshotel {border-left-color: #cbe757}
+.ar-cornwall {border-left-color: #09305b}
+.princ-vic,
+.ar-brighton {border-left-color: #C8E07C}
+.chefs-club {border-left-color: orangered}
+.artistresidence,
+.lady-ott,
+.emilyhankins {border-left-color: #B0DBF0}
