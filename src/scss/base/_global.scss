@@ -24,12 +24,18 @@ Tread carefully.
   border-bottom: 1px solid $border-color;
 }
 
+@media only screen and (min-width: 34.375em) {
+  .g-wrapper,
+  .g-wrapper-cta { width:90%; }
+}
 @include min-screen(48em) {
-  .g-wrapper,.g-wrapper-cta{width:85%}  
+  .g-wrapper,
+  .g-wrapper-cta { width:85%; }
 }
 
 @include min-screen(56.25em) {
-  .g-wrapper,.g-wrapper-cta{width:80%}
+  .g-wrapper,
+  .g-wrapper-cta{ width:80%; }
 }
 
 

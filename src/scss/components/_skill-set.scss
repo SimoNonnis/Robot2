@@ -17,7 +17,7 @@ Should not affect anything else in the site other than the Component itself.
 
 
 
-.focused-list {margin-top:0}
+.focused-list {margin-top:0;padding: 0 0 0 2em;}
 .focused h2{text-align:center}
 .focused-wrapper{margin: 0 auto 0.7em auto}
 .focused-list li:before{content:"\2713";color:#ff3000;margin-right: 0.4em}
@@ -25,5 +25,5 @@ Should not affect anything else in the site other than the Component itself.
 @include min-screen(30.0625em) {
   .focused{text-align:center}
   .focused-wrapper{display:inline-block}
-  .focused-list{float:left;text-align:left;vertical-align:top}  
+  .focused-list{float:left;text-align:left;vertical-align:top}
 }

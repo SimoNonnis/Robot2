@@ -18,6 +18,32 @@ body {
   line-height:1.5;
 }
 
+/* Font Family and more...
+   ========================================================================== */
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-weight:400;
+}
+
+
+h1 {
+  font-size:3.5rem;
+  margin:0;
+  font-family: 'Wendy One', sans-serif;
+  font-weight:400;
+  text-transform:uppercase;
+}
+
+h2 {
+  font-size:1.9rem;
+  margin:0.83em 0;
+}
+
+h3 {
+  font-size:1.6rem;
+  margin:1em 0;
+}
+
 
 /* Font bump
    ========================================================================== */
@@ -49,31 +75,7 @@ body {
 
 
 
-/* Font Family and more...
-   ========================================================================== */
-html {
-  font-family: 'Open Sans', sans-serif;
-  font-weight:400;
-}
 
-
-h1 {
-  font-size:3.5rem;
-  margin:0;
-  font-family: 'Wendy One', sans-serif;
-  font-weight:400;
-  text-transform:uppercase;
-}
-
-h2 {
-  font-size:1.9rem;
-  margin:0.83em 0;
-}
-
-h3 {
-  font-size:1.6rem;
-  margin:1em 0;
-}
 
 
 /* Links
@@ -87,11 +89,13 @@ a:visited {
 
 a:focus {
   outline: thin dotted;
+  text-decoration: none;
 }
 
 a:active,
 a:hover {
   outline:0;
+  text-decoration: none;
 }
 
 
