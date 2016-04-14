@@ -16,15 +16,15 @@
       <article class="u-cf">
         <div class="g-wrapper content">
           <h2 class="[ u-textCenter ]">About Robot2</h2>
-          <p>I'm Simon Nonnis, a frontend developer. Robot2 is my tiny website where
-             I talk about me and my most relevant work.
+          <p>I'm Simon Nonnis, a front-end developer. Robot2 is a website where
+             I talk about me and display my most relevant work.
           </p>
-          <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a totally different environment and joined
+          <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a company environment and joined
              the <a href="http://www.ignitehospitality.com/about/" target="_blank">Ignite Team</a>.
              I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress in the back-end.
              I was never a fan of frameworks and premium themes so I've built from scratch
              my own WP theme, <a href="https://github.com/SimoNonnis/ZeroWpTheme" target="_blank" >ZeroWPTheme</a>, that was quickly adopted as
-             a foundation for every new project.
+             a foundation for every new project among the dev team.
           </p>
 
           <p>I gained an extensive experience on simplifying the process to collaborate
