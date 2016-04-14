@@ -78,8 +78,9 @@
              I prefer core-language solutions, small libraries and micro frameworks that are close to vanilla Js as possible,
              for this reason I really do like:
              <a href="https://facebook.github.io/react/"  target="_blank">React</a>,
-             <a href="http://reactivex.io/"  target="_blank">RxJs</a> or
-             <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a>.
+             <a href="http://reactivex.io/"  target="_blank">RxJs</a>,
+             <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a> or
+             <a href="http://elm-lang.org/"  target="_blank">Elm</a>.
           </p>
           <p>For the most part best practices of React, for example, are just JavaScript best practices.</p>
           <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
