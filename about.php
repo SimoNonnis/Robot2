@@ -31,7 +31,7 @@
              with UX designers and project managers to deliver stable, fast and high quality websites.
           </p>
 
-          <p>Below you can see a short list of languages, tools, softwares that I love to work with.</p>
+          <p>Below you can see a short list of languages, tools, software that I love to work with.</p>
         </div>
 
         <div class="focused focused-code u-cf">
@@ -56,14 +56,13 @@
             <li>Sql</li>
             <li>MongoDB</li>
             <li>Falcor</li>
-            <li>Php</li>
+            <li>Elm</li>
           </ul>
           </div>
         </div>
         <div class="g-wrapper content">
           <p>In mid 2015 I felt the need to take a break and dedicate myself to learn Javascript in deep.
              My goal is to be able to join a team where Javascript is at the forefront on a daily basis.
-             I am not at an expert level but when it comes to coding if you really enjoy it you’ll always keep progressing.
           </p>
           <p>"You don’t know JS" book series by
              <a href="https://twitter.com/getify" target="_blank">Kyle Simpson</a>
@@ -73,10 +72,9 @@
              because frequently I need to go back to some chapter and concept, so I have them for offline reading.
           </p>
           <p>During this time, I had a look at js frameworks like Angular, Ember or Meteor,
-             and I’ve come to realise that frameworks come and go so often in JavaScript that picking one might not be the right direction to take.
-             Also they increase your project's complexity, dependencies and limit your scope of creativity.
-             I prefer core-language solutions, small libraries and micro frameworks that are close to vanilla Js as possible,
-             for this reason I really do like:
+             and I’ve come to realise that frameworks increase your project's complexity, dependencies and limit your scope of creativity.
+             I prefer core-language solutions, small libraries and micro frameworks, with small API surface, that are close as possible to vanilla Js.
+             For these reasons I really do like:
              <a href="https://facebook.github.io/react/"  target="_blank">React</a>,
              <a href="http://reactivex.io/"  target="_blank">RxJs</a>,
              <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a> or
@@ -92,7 +90,7 @@
              of what a web application does. It’s what JavaScript was invented for.
           </p>
           <p>So how to solve this problem? Well, the key is that we don’t avoid functions that have side effects entirely,
-             we just give them a healthy amount of respect, and put-off dealing with them until we absolutely have to.
+             we just put-off dealing with them until we absolutely have to.
           </p>
           <p>If you try to perform effects and logic at the same time, you may create hidden side effects which cause bugs in the logic.
              Keep functions small. Do one thing at a time, and do it well.
