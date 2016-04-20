@@ -28,7 +28,7 @@
           </p>
 
           <p>I gained an extensive experience on simplifying the collaboration process
-             between developers, UX designers and project managers to deliver stable, fast and high quality websites.
+             between developers, UI designers and project managers to implement a collective vision for a project and deliver stable, fast and high quality websites.
           </p>
 
           <p>Below you can see a short list of languages, tools, software that I love to work with.</p>
