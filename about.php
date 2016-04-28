@@ -27,7 +27,7 @@
              a foundation for every new project among the dev team.
           </p>
 
-          <p>I gained an extensive experience on simplifying the collaboration process
+          <p>I gained an extensive experience on all phases of the development lifecycle, simplifying the collaboration process
              between developers, UI designers and project managers to implement a collective vision for a project and deliver stable, fast and high quality websites.
           </p>
 
