@@ -15,8 +15,8 @@
         <h2 class="[ u-textCenter ]">Contact</h2>
           <p>I love working with people that are looking for results and at the same time see value in quality.
              People that want the best work and are always exploring new ways to simplify workflows.
-             I am a big fun of declarative programming and clean code over the imperative approach,
-             I am very enthusiastic to use technologies like: React, Redux, GraphQl, Falcor, RxJs, Cycle.js, Elm.
+             I am a big fun of declarative programming and clean code over the imperative approach and
+             very enthusiastic to use technologies like: React, Redux, GraphQl, Falcor, RxJs, Cycle.js, Elm.
              So if you are excited like me about this new golden age in web development, contact me.
           </p>
           <p>
