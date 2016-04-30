@@ -13,7 +13,7 @@
       </div>
       <h2 class="[ u-textCenter ]">Recent Work</h2>
       <p class="u-textCenter intro-recent-pro">
-        In this section I like to share a list of my recent projects I’ve worked on and that I am proud of.
+        In this section I like to share a list of my recent projects that I am proud of.
         Each of these websites represents an important step of my programming philosophy.
         My part in every project consisted of interacting with graphic designers and project managers designing
         information architecture, UX, functionalities and at the same time setting up infrastructures, building from scratch these responsive websites.
@@ -26,9 +26,10 @@
       <article class="work-article g-wrapper u-cf princ-vic">
         <div class="work-txt">
           <h3><a href="http://princessvictoria.co.uk/" target="_blank">The Princess Victoria</a></h3>
-          <p>Built in 1829, the grand corner building that houses the Princess Victoria was originally
-             a Victorian gin palace and tram stop, This pub in London it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
+          <p>This pub in London it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
              dinners alike.
+             Built in 1829, the grand corner building that houses the Princess Victoria was originally
+             a Victorian gin palace and tram stop. 
           </p>
         </div>
       </article>
