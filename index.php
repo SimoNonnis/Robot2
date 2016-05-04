@@ -16,7 +16,8 @@
     <section role="main" class="home-main-section g-wrapper [ u-textCenter u-cf ]">
       <article class="home-main-article u-cf">
         <h2>Keep it extremely simple</h2>
-        <p>Complexity is the enemy of productivity, 
+        <p>Complexity is the enemy of productivity. 
+           Shorter code with fewer moving parts is simpler to read and test, 
            so as a developer my job is to find the simplest solution to a problem.
            A solution that works, is performant, is easy to understand
            and doesn't take too long to implement.
