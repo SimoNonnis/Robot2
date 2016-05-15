@@ -18,8 +18,8 @@
         <h2>Keep it extremely simple</h2>
         <p>Complexity is the enemy of productivity. 
            Shorter code with fewer moving parts is simpler to read and test, 
-           so as a developer my job is to find the simplest solution to a problem.
-           A solution that works, is performant, is easy to understand
+           so as a developer my job is to simplify.
+           Find a solution that works, is performant, is easy to understand
            and doesn't take too long to implement.
         </p>
       </article>
