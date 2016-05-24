@@ -12,7 +12,7 @@
         <img alt="different-devices" src="dist/images/work.png" />
       </div>
       <h2 class="[ u-textCenter ]">Recent Work</h2>
-      <p class="u-textCenter intro-recent-pro">
+      <p class="intro-recent-pro">
         In this section I like to share a list of my recent projects that I am proud of.
         Each of these websites represents an important step of my programming philosophy.
         My part in every project consisted of interacting with graphic designers and project managers designing
@@ -29,7 +29,7 @@
           <p>This pub in London it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
              dinners alike.
              Built in 1829, the grand corner building that houses the Princess Victoria was originally
-             a Victorian gin palace and tram stop. 
+             a Victorian gin palace and tram stop.
           </p>
         </div>
       </article>
