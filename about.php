@@ -28,10 +28,9 @@
           </p>
 
           <p>I gained an extensive experience on all phases of the development lifecycle, simplifying the collaboration process
-             between developers, UI designers and project managers to implement a collective vision for a project and deliver stable, fast and high quality websites.
+             between developers, UI designers and project managers to implement a collective vision for a project and deliver stable, fast and high quality websites.<br>
+             Below you can see a short list of languages, tools, software that I love to work with.
           </p>
-
-          <p>Below you can see a short list of languages, tools, software that I love to work with.</p>
         </div>
 
         <div class="focused focused-code u-cf">
