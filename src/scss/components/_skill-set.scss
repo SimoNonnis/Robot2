@@ -10,7 +10,11 @@ Should not affect anything else in the site other than the Component itself.
 
 /* Skill set area
    ========================================================================== */
-.focused{border-top:5px solid #DFDFDF;border-bottom:5px solid #C5C4C4}
+.focused{
+  border-top:5px solid #DFDFDF;
+  border-bottom:5px solid #C5C4C4;
+  margin-bottom: 1em;
+}
 .focused-code{background:#0C1425;border-top-color: #5AA4C0;border-bottom-color:#5AA4C0}
 .focused-code h2{color:#B2CC33}
 .focused-code .focused-list{color:snow}
