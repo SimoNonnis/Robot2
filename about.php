@@ -102,7 +102,7 @@
           </p>
           <p>I pursuit the idea of simpler programming, FP helps me to go in the right direcion.</p>
 
-          <h3 class="h3">Figuring things out</h3>
+          <h3 class="h3">Figuring Things Out</h3>
           <p>At the end though Web development is not all that much about coding, but often
              is about of figuring things out, getting in a mood to solving a small problem after the other.
              Sometime is coded related sometime is just doing research about tooling, sometime you get stucked and your
