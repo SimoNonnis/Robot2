@@ -15,8 +15,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes"><!-- iOS meta tag defines whether the web application should run in full-screen mode -->
   <meta name="format-detection" content="telephone=no"><!-- Prevent iOS to change the style of a telephone number -->
 
-  <link href='https://fonts.googleapis.com/css?family=Wendy+One' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  
+  <link href="https://fonts.googleapis.com/css?family=Wendy+One|Lato:300" rel="stylesheet">
 
   <!-- <link rel="stylesheet" href="css/main.css"> -->
   <link rel="stylesheet" href="dist/css/main.min.css">
