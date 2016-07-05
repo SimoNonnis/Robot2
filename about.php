@@ -40,7 +40,7 @@
             <li>Html</li>
             <li>CSS, SCSS, BEM</li>
             <li>Javascript</li>
-            <li>Gulp, npm scripts</li>
+            <li>Gulp, Webpack</li>
             <li>D3.js</li>
           </ul>
           <ul class="g-listClean focused-list">
