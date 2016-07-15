@@ -12,7 +12,7 @@ Should not affect anything else in the site other than the Component itself.
    ========================================================================== */
 .nav-list{
   margin:0;
-  padding:1em 0;
+  padding:1em 0 0.6em 0;
   text-align:center;
 }
 .nav-list li { display:inline; }
@@ -26,6 +26,6 @@ Should not affect anything else in the site other than the Component itself.
 }
 
 @include min-screen(75em) {
-  .main-nav{float:right;margin-top:1.4em}
-  .footer-nav{float:right}  
+  .main-nav{float:right;margin-top:0.8em}
+  .footer-nav{float:right}
 }

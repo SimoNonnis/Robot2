@@ -11,24 +11,34 @@ Should not affect anything else in the site other than the Component itself.
 /* Logo
    ========================================================================== */
 
-.logo{
+.logo {
   text-align:center;
   margin-top:0.5em;
 }
 
-.logo p {
-  display:none;
+.logo__svg {
+  width: 70px;
+  height: 70px;
+}
+
+.logo__div {
+  display: none;
 }
 
 @include min-screen(75em) {
   .logo {
     float:left;
     text-align:left;
+    display: flex;
+    align-items: center;
   }
 
-  .logo p {
-    margin-left:0.175em;
-    font-size:1.5rem;
+  .logo__div {
     display: inline;
+    padding-left: 1.5em;
+  }
+
+  .logo__description {
+    margin: 0;
   }
 }
