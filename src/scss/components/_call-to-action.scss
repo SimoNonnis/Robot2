@@ -20,6 +20,8 @@ Should not affect anything else in the site other than the Component itself.
 }
 
 .section-ctaction a {
+  margin: auto;
+  width: 14em;
   display:block;
   padding: 1em 1.6em;
   border-radius:4px;
@@ -54,25 +56,6 @@ Should not affect anything else in the site other than the Component itself.
   text-shadow: 0 1px 1px #DBD3D3;
 }
 
-@media only screen and (min-width: 30.0625em) {
-  .section-ctaction a {
-    width:72%;
-    margin:0 auto;
-  }
-}
-
-@media only screen and (min-width: 37.5em) {
-  .section-ctaction a{width:62%}
-}
-
-@media only screen and (min-width: 48em) {
-  .section-ctaction a{width:55%}
-}
-
-@media only screen and (min-width: 62em) {
-  .section-ctaction a{width:47%}
-}
-
-@media only screen and (min-width: 75em) {
-  .section-ctaction a{width:34%}
+@include min-screen(62.5em) {
+  .section-ctaction a { width: 18em; }
 }
