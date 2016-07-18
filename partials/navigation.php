@@ -6,7 +6,6 @@
     </a>
     <div class="logo__div">
       <h1><a class="u-noTextDecoration logo__title" href="/">Robot2</a></h1>
-      <p class="logo__description">making programming simpler</p>
     </div>
   </div>
 

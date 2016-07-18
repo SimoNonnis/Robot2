@@ -26,6 +26,6 @@ Should not affect anything else in the site other than the Component itself.
 }
 
 @include min-screen(75em) {
-  .main-nav{float:right;margin-top:0.8em}
+  .main-nav{float:right;margin-top:0.7em}
   .footer-nav{float:right}
 }
