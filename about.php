@@ -100,7 +100,7 @@
           <p>If you try to perform effects and logic at the same time, you may create hidden side effects which cause bugs in the logic.
              Keep functions small. Do one thing at a time, and do it well.
           </p>
-          <p>I pursuit the idea of simpler programming, FP helps me to go in the right direcion.</p>
+          <p>I pursuit the idea of simpler programming, FP helps me to go in the right direction.</p>
 
           <h3 class="h3">Figuring Things Out</h3>
           <p>At the end though Web development is not all that much about coding, but often
