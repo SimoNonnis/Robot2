@@ -21,20 +21,11 @@ Should not affect anything else in the site other than the Component itself.
   height: 70px;
 }
 
-.logo__div {
-  display: none;
-}
+
 
 @include min-screen(75em) {
   .logo {
     float:left;
     text-align:left;
-    display: flex;
-    align-items: center;
-  }
-
-  .logo__div {
-    display: inline;
-    padding-left: 1.5em;
   }
 }
