@@ -22,7 +22,7 @@ Should not affect anything else in the site other than the Component itself.
 
 .focused-list {margin-top:0;padding: 0 0 0 2em;}
 .focused h2{text-align:center}
-.focused-wrapper{margin: 0 auto 0.7em auto}
+.focused-wrapper{margin: 0 auto 1.5em auto}
 .focused-list li:before{content:"\2713";color:#ff3000;margin-right: 0.4em}
 
 @include min-screen(30.0625em) {
