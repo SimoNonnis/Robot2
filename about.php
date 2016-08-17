@@ -41,21 +41,14 @@
             <li>CSS, SCSS, BEM</li>
             <li>Javascript</li>
             <li>Gulp, Webpack</li>
-            <li>D3.js</li>
+            <li>Css-modules</li>
           </ul>
           <ul class="g-listClean focused-list">
             <li>Wordpress</li>
             <li>React</li>
-            <li>RxJs</li>
-            <li>CycleJs</li>
-            <li>NodeJs</li>
-          </ul>
-          <ul class="g-listClean focused-list">
+            <li>Redux</li>
             <li>GraphQL</li>
-            <li>Sql</li>
-            <li>MongoDB</li>
-            <li>Falcor</li>
-            <li>Elm</li>
+            <li>Node</li>
           </ul>
           </div>
         </div>
