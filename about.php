@@ -38,17 +38,17 @@
           <div class="focused-wrapper u-cf">
           <ul class="g-listClean focused-list">
             <li>Html</li>
-            <li>CSS, SCSS, BEM</li>
-            <li>Javascript</li>
-            <li>Gulp, Webpack</li>
+            <li>Css, Scss, Bem</li>
             <li>Css-modules</li>
+            <li>Javascript</li>
+            <li>Webpack, Gulp</li>
           </ul>
           <ul class="g-listClean focused-list">
-            <li>Wordpress</li>
             <li>React</li>
             <li>Redux</li>
             <li>GraphQL</li>
             <li>Node</li>
+            <li>Wordpress</li>
           </ul>
           </div>
         </div>
