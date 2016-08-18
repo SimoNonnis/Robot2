@@ -73,11 +73,8 @@
           <p>During this time, I had a look at js frameworks like Angular, Ember or Meteor,
              and I’ve come to realise that frameworks increase your project's complexity, dependencies and limit your scope of creativity.
              I prefer core-language solutions, small libraries and micro frameworks, with small API surface, that are close as possible to vanilla Js.
-             For these reasons I really do like:
-             <a href="https://facebook.github.io/react/"  target="_blank">React</a>,
-             <a href="http://reactivex.io/"  target="_blank">RxJs</a>,
-             <a href="http://cycle.js.org/"  target="_blank">Cycle.js</a> or
-             <a href="http://elm-lang.org/"  target="_blank">Elm</a>.
+             For these reasons I really do like
+             <a href="https://facebook.github.io/react/"  target="_blank">React</a>.
           </p>
           <p>For the most part best practices of React, for example, are just JavaScript best practices.</p>
 
