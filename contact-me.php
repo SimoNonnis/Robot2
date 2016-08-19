@@ -17,7 +17,7 @@
              People that want the best work and are always exploring new ways to simplify workflows.
              I am a big fun of declarative programming and clean code over the imperative approach and
              very enthusiastic to use technologies like: React, Redux, GraphQl, Falcor, RxJs, Cycle.js, Elm, Haskell.
-             So if you are excited like me about this new golden age in web development, contact me.
+             If you are excited like me about this new golden age in web development, contact me.
           </p>
           <p>
             Let’s build something fabulous together!
