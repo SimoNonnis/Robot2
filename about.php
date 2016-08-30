@@ -16,7 +16,7 @@
       <article class="u-cf">
         <div class="g-wrapper content">
           <h2 class="[ u-textCenter ]">About Robot2</h2>
-          <p>I'm Simon Nonnis, a frontend developer, <br> Robot2 is a website where
+          <p>I'm Simon Nonnis, a frontend developer and <br> Robot2 is my website where
              I talk about me and display my most relevant work.
           </p>
           <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a company environment and joined
