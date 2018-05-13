@@ -33,16 +33,6 @@
           </p>
         </div>
       </article>
-      <article class="work-article g-wrapper u-cf lady-ott">
-        <div class="work-txt">
-          <h3><a href="http://theladyottoline.com/" target="_blank">The Lady Ottoline</a></h3>
-          <p>A pretty little pub nestled in the heart of Bloomsbury, London. The Lady Ottoline offers elegant
-            food and a welcoming atmosphere, whether you’re unwinding by the glow
-            of our wood-burner in the winter or enjoying a cool breeze in the summer from our gorgeous
-            French doors.
-          </p>
-        </div>
-      </article>
       <article class="work-article g-wrapper u-cf ar-london">
         <div class="work-txt">
           <h3><a href="http://artistresidencelondon.co.uk/" target="_blank">Artistresidence London</a></h3>
