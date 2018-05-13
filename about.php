@@ -19,9 +19,9 @@
           <p>I'm Simon Nonnis, a frontend developer and <br> Robot2 is my website where
              I talk about me and display my most relevant work.
           </p>
-          <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in a company environment and joined
+          <p>I've been building websites from 2009, freelancing until 2013 when I felt the need to work in an agency environment and joined
              the <a href="http://www.ignitehospitality.com/about/" target="_blank">Ignite Team</a>.
-             I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress in the back-end.
+             I've worked there for 2 years, learning to build mobile first, responsive websites with wordpress powering the back-end.
              I was never a fan of frameworks and premium themes so I've built from scratch
              my own WP theme, <a href="https://github.com/SimoNonnis/ZeroWpTheme" target="_blank" >ZeroWPTheme</a>, that was quickly adopted as
              a foundation for every new project among the dev team.
@@ -39,16 +39,14 @@
           <ul class="g-listClean focused-list">
             <li>Html</li>
             <li>Css, Scss, Bem</li>
-            <li>Css-modules</li>
-            <li>Javascript</li>
+            <li>Styled components</li>
             <li>Webpack, Gulp</li>
           </ul>
           <ul class="g-listClean focused-list">
+            <li>Javascript</li>
             <li>React</li>
             <li>Redux</li>
-            <li>GraphQL</li>
-            <li>Node</li>
-            <li>Wordpress</li>
+            <li>Redux saga</li>
           </ul>
           </div>
         </div>
@@ -64,9 +62,6 @@
              All the books are free to read on <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">Github</a>!
              I’ve bought the books <a href="http://www.amazon.com/s/ref=nb_sb_ss_c_0_18?url=search-alias%3Dstripbooks&amp;field-keywords=you+don%27t+know+javascript&amp;sprefix=you+don%27t+know+javascript%2Caps%2C204" target="_blank">hardcopies</a>,
              because frequently I need to go back to some chapter and concept, so I have them for offline reading.
-          </p>
-          <p>I am a big fan of <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md" target="_blank">OLOO (objects linking to other objects)</a> so I agree with Eric Elliot
-             when he advocates against the use of <a href="https://vimeo.com/69255635" target="_blank">class pattern</a> in js.
           </p>
 
           <h3 class="h3">React & Frameworks</h3>
