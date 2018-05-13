@@ -16,7 +16,7 @@
           <p>I love working with people that are looking for results and at the same time see value in quality.
              People that want the best work and are always exploring new ways to simplify workflows.
              I am a big fun of declarative programming and clean code over the imperative approach and
-             very enthusiastic to use technologies like: React, Redux, GraphQl, Falcor, RxJs, Cycle.js, Elm, Haskell.
+             very enthusiastic to use technologies like: React, Redux, GraphQl, RxJs, Cycle.js, Elm, Haskell.
              If you are excited like me about this new golden age in web development, contact me.
           </p>
           <p>
@@ -27,7 +27,7 @@
 
     <section class="mailto section-ctaction edge-css">
       <div class="g-wrapper-cta u-cf">
-        <a class="u-noTextDecoration" href="mailto:simononnis@gmail.com?subject=Robot2 | Website Enquiry">simononnis@gmail.com</a>
+        <a class="u-noTextDecoration" href="mailto:simon.nonnis@protonmail.com?subject=Robot2 | Website Enquiry">simon.nonnis@protonmail.com</a>
       </div>
     </section>
 
