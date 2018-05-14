@@ -9,7 +9,6 @@
   </nav>
 
   <div class="social-links">
-  	<a href="https://twitter.com/SimoNonnis" target="_blank"><strong>twitter</strong></a>
   	<a href="http://codepen.io/SimonNonnis/" target="_blank"><strong>codepen</strong></a>
   	<a href="https://github.com/SimoNonnis" target="_blank"><strong>github</strong></a>
   </div>
