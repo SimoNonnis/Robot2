@@ -39,14 +39,18 @@
           <ul class="g-listClean focused-list">
             <li>Html</li>
             <li>Css, Scss, Bem</li>
+            <li>Flexbox</li>
+            <li>Css grid layout</li>
+            <li>Css modules</li>
             <li>Styled components</li>
-            <li>Webpack, Gulp</li>
           </ul>
           <ul class="g-listClean focused-list">
             <li>Javascript</li>
             <li>React</li>
             <li>Redux</li>
             <li>Redux saga</li>
+            <li>Webpack, Gulp</li>
+            <li>Git, Jira</li>
           </ul>
           </div>
         </div>
