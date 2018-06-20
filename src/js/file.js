@@ -90,14 +90,34 @@ const allPhotos = {
   ],
   FastTrack: [
     {
-      src: 'https://placeimg.com/964/1024/architecture',
-      w: 964,
-      h: 1024
+      src: 'dist/images/fast-track-1.jpg',
+      w: 756,
+      h: 744
     },
     {
-      src: 'https://placeimg.com/1024/683/architecture',
-      w: 1024,
-      h: 683
+      src: 'dist/images/fast-track-2.jpg',
+      w: 800,
+      h: 1136
+    },
+    {
+      src: 'dist/images/fast-track-3.jpg',
+      w: 1536,
+      h: 1167
+    },
+    {
+      src: 'dist/images/fast-track-4.jpg',
+      w: 800,
+      h: 920
+    },
+    {
+      src: 'dist/images/fast-track-5.jpg',
+      w: 688,
+      h: 768
+    },
+    {
+      src: 'dist/images/fast-track-6.jpg',
+      w: 1128,
+      h: 1481
     }
   ],
   PropertyDetails: [
