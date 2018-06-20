@@ -22,12 +22,12 @@
         information architecture, UX, functionalities and in parallel setting up infrastructures, building from scratch these responsive websites.
       </p>
 
-      <div>
+      <div class="work-container">
         <a href="#" data-gallery="VendorDetails">
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/vendor-details-thumb.png">
-              <h3>Vendor Details</h3>
+              <h3 class="card__title">Vendor Details</h3>
             </div>
             <div class="card__bottom">
               <div>React</div>
@@ -40,7 +40,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/react-components-thumb.png">
-              <h3>React Components</h3>
+              <h3 class="card__title">React Components</h3>
             </div>
             <div class="card__bottom">
               <div>React</div>
@@ -53,7 +53,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/fast-track-thumb.jpg">
-              <h3>Fast Track</h3>
+              <h3 class="card__title">Fast Track</h3>
             </div>
             <div class="card__bottom">
               <div>JQuery</div>
@@ -66,7 +66,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/property-details-thumb.png">
-              <h3>Property Details</h3>
+              <h3 class="card__title">Property Details</h3>
             </div>
             <div class="card__bottom">
               <div>React</div>
@@ -79,7 +79,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/package-selection-thumb.png">
-              <h3>Package Selection</h3>
+              <h3 class="card__title">Package Selection</h3>
             </div>
             <div class="card__bottom">
               <div>JQuery</div>
@@ -92,7 +92,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/how-to-sell-your-house-online-thumb.jpg">
-              <h3>Sell Your House</h3>
+              <h3 class="card__title">Sell Your House</h3>
             </div>
             <div class="card__bottom">
               <div>Css3</div>
@@ -105,7 +105,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/sales-predictor-thumb.png">
-              <h3>Sales Predictor</h3>
+              <h3 class="card__title">Sales Predictor</h3>
             </div>
             <div class="card__bottom">
               <div>JS</div>
@@ -118,7 +118,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/local-valuation-expert-thumb.png">
-              <h3>Valuation Expert</h3>
+              <h3 class="card__title">Valuation Expert</h3>
             </div>
             <div class="card__bottom">
               <div>Css3</div>
@@ -131,7 +131,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/chefs-club-thumb.jpg">
-              <h3>Chefs Club</h3>
+              <h3 class="card__title">Chefs Club</h3>
             </div>
             <div class="card__bottom">
               <div>Wordpress</div>
@@ -144,7 +144,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/artist-residence-thumb.jpg">
-              <h3>Artist Residence</h3>
+              <h3 class="card__title">Artist Residence</h3>
             </div>
             <div class="card__bottom">
               <div>Wordpress</div>
@@ -157,7 +157,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/blue-fin-thumb.jpg">
-              <h3>Blue Fin</h3>
+              <h3 class="card__title">Blue Fin</h3>
             </div>
             <div class="card__bottom">
               <div>Wordpress</div>
@@ -170,7 +170,7 @@
           <div class="card" >
             <div class="card__top">
               <img class="card__img" src="dist/images/gliffaes-hotel-thumb.jpg">
-              <h3>Gliffaes Hotel</h3>
+              <h3 class="card__title">Gliffaes Hotel</h3>
             </div>
             <div class="card__bottom">
               <div>Wordpress</div>
