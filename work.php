@@ -233,5 +233,6 @@
 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js'></script>
+    <script src='dist/js/main.js'></script>
 
 <?php include("partials/footer.php"); ?>
