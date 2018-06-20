@@ -36,14 +36,14 @@
   },
   "homepage": "https://github.com/SimoNonnis/ZeroScssNpmScripts#readme",
   "devDependencies": {
-    "autoprefixer": "^6.3.3",
+    "autoprefixer": "^8.6.3",
     "concat-cli": "^4.0.0",
-    "imagemin-newer": "^1.0.1",
-    "node-sass": "^3.4.2",
-    "onchange": "^2.0.0",
-    "parallelshell": "^2.0.0",
-    "postcss-cli": "^2.5.1",
-    "svgo": "^0.6.1",
-    "uglify-js": "^2.6.1"
+    "imagemin-newer": "^1.0.2",
+    "node-sass": "^4.9.0",
+    "onchange": "^4.0.0",
+    "parallelshell": "^3.0.2",
+    "postcss-cli": "^5.0.1",
+    "svgo": "^1.0.5",
+    "uglify-js": "^3.4.1"
   }
 }
