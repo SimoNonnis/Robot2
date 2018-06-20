@@ -5,6 +5,9 @@
 
 <?php include("partials/head.php"); ?>
 
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css'>
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css'>
+
   <?php include("partials/navigation.php"); ?>
 
     <section role="main" class="work-section u-cf">
@@ -99,5 +102,8 @@
     <section class="section-ctaction edge-css">
       <?php include("partials/get-in-touch.php"); ?>
     </section>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js'></script>
 
 <?php include("partials/footer.php"); ?>
