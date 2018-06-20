@@ -124,38 +124,113 @@ const allPhotos = {
   ],
   PropertyDetails: [
     {
-      src: 'https://placeimg.com/964/1024/nature',
-      w: 964,
-      h: 1024
+      src: 'dist/images/property-details-1.png',
+      w: 1247,
+      h: 1995
     },
     {
-      src: 'https://placeimg.com/1024/683/nature',
-      w: 1024,
-      h: 683
+      src: 'dist/images/property-details-2.png',
+      w: 1247,
+      h: 1995
+    },
+    {
+      src: 'dist/images/property-details-3.png',
+      w: 1236,
+      h: 1977
+    },
+    {
+      src: 'dist/images/property-details-4.png',
+      w: 1247,
+      h: 1995
+    },
+    {
+      src: 'dist/images/property-details-5.png',
+      w: 1247,
+      h: 1995
+    },
+    {
+      src: 'dist/images/property-details-6.png',
+      w: 1247,
+      h: 1995
     }
   ],
   PackageSelection: [
     {
-      src: 'https://placeimg.com/964/1024/people',
-      w: 964,
-      h: 1024
+      src: 'dist/images/package-selection-1.png',
+      w: 1220,
+      h: 672
     },
     {
-      src: 'https://placeimg.com/1024/683/people',
-      w: 1024,
-      h: 683
+      src: 'dist/images/package-selection-2.png',
+      w: 1220,
+      h: 672
+    },
+    {
+      src: 'dist/images/package-selection-3.png',
+      w: 1220,
+      h: 672
+    },
+    {
+      src: 'dist/images/package-selection-4.png',
+      w: 1220,
+      h: 699
+    },
+    {
+      src: 'dist/images/package-selection-5.png',
+      w: 1220,
+      h: 672
+    },
+    {
+      src: 'dist/images/package-selection-6.png',
+      w: 1220,
+      h: 873
+    },
+    {
+      src: 'dist/images/package-selection-7.png',
+      w: 1220,
+      h: 747
     }
   ],
   SellYourHouse: [
     {
-      src: 'https://placeimg.com/964/1024/tech',
-      w: 964,
-      h: 1024
+      src: 'dist/images/how-to-sell-your-house-online-1.jpg',
+      w: 1220,
+      h: 1036
     },
     {
-      src: 'https://placeimg.com/1024/683/tech',
-      w: 1024,
-      h: 683
+      src: 'dist/images/how-to-sell-your-house-online-2.jpg',
+      w: 1220,
+      h: 1279
+    },
+    {
+      src: 'dist/images/how-to-sell-your-house-online-3.jpg',
+      w: 1220,
+      h: 1254
+    },
+    {
+      src: 'dist/images/how-to-sell-your-house-online-4.jpg',
+      w: 1220,
+      h: 1163
+    },
+    {
+      src: 'dist/images/how-to-sell-your-house-online-5.jpg',
+      w: 1220,
+      h: 1137
+    },
+    {
+      src: 'dist/images/how-to-sell-your-house-online-6.jpg',
+      w: 1220,
+      h: 1141
+    },
+    {
+      src: 'dist/images/how-to-sell-your-house-online-7.jpg',
+      w: 1220,
+      h: 1212
+    },
+    {
+      src: 'dist/images/how-to-sell-your-house-online-8.jpg',
+      w: 1220,
+      h: 1266
     }
   ],
   SalesPredictor: [
