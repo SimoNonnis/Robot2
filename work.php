@@ -22,82 +22,210 @@
         information architecture, UX, functionalities and in parallel setting up infrastructures, building from scratch these responsive websites.
       </p>
 
+      <div>
+        <a href="#" data-gallery="VendorDetails">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/vendor-details-thumb.png">
+              <h3>Vendor Details</h3>
+            </div>
+            <div class="card__bottom">
+              <div>React</div>
+              <div>2018</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="ReactComponents">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/react-components-thumb.png">
+              <h3>React Components</h3>
+            </div>
+            <div class="card__bottom">
+              <div>React</div>
+              <div>2018</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="FastTrack">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/fast-track-thumb.jpg">
+              <h3>Fast Track</h3>
+            </div>
+            <div class="card__bottom">
+              <div>JQuery</div>
+              <div>2017</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="PropertyDetails">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/property-details-thumb.png">
+              <h3>Property Details</h3>
+            </div>
+            <div class="card__bottom">
+              <div>React</div>
+              <div>2017</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="PackageSelection">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/package-selection-thumb.png">
+              <h3>Package Selection</h3>
+            </div>
+            <div class="card__bottom">
+              <div>JQuery</div>
+              <div>2017</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="SellYourHouse">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/how-to-sell-your-house-online-thumb.jpg">
+              <h3>Sell Your House</h3>
+            </div>
+            <div class="card__bottom">
+              <div>Css3</div>
+              <div>2017</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="SalesPredictor">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/sales-predictor-thumb.png">
+              <h3>Sales Predictor</h3>
+            </div>
+            <div class="card__bottom">
+              <div>JS</div>
+              <div>2017</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="ValuationExpert">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/local-valuation-expert-thumb.png">
+              <h3>Valuation Expert</h3>
+            </div>
+            <div class="card__bottom">
+              <div>Css3</div>
+              <div>2016</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="ChefsClub">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/chefs-club-thumb.jpg">
+              <h3>Chefs Club</h3>
+            </div>
+            <div class="card__bottom">
+              <div>Wordpress</div>
+              <div>2016</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="ArtistResidence">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/artist-residence-thumb.jpg">
+              <h3>Artist Residence</h3>
+            </div>
+            <div class="card__bottom">
+              <div>Wordpress</div>
+              <div>2015</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="BlueFin">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/blue-fin-thumb.jpg">
+              <h3>Blue Fin</h3>
+            </div>
+            <div class="card__bottom">
+              <div>Wordpress</div>
+              <div>2015</div>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" data-gallery="GliffaesHotel">
+          <div class="card" >
+            <div class="card__top">
+              <img class="card__img" src="dist/images/gliffaes-hotel-thumb.jpg">
+              <h3>Gliffaes Hotel</h3>
+            </div>
+            <div class="card__bottom">
+              <div>Wordpress</div>
+              <div>2015</div>
+            </div>
+          </div>
+        </a>
+
+        <!-- Root element of PhotoSwipe. Must have class pswp. -->
+        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+          <!-- Background of PhotoSwipe -->
+          <div class="pswp__bg"></div>
+
+          <!-- Slides wrapper with overflow:hidden. -->
+          <div class="pswp__scroll-wrap">
+            <div class="pswp__container">
+              <!-- don't modify these 3 pswp__item elements, data is added later on -->
+              <div class="pswp__item"></div>
+              <div class="pswp__item"></div>
+              <div class="pswp__item"></div>
+            </div>
+
+            <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+            <div class="pswp__ui pswp__ui--hidden">
+              <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+              </div>
 
 
+              <!-- Navigation -->
+              <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+              </button>
 
+              <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+              </button>
 
-      <article class="work-article g-wrapper u-cf princ-vic">
-        <div class="work-txt">
-          <h3><a href="http://princessvictoria.co.uk/" target="_blank">The Princess Victoria</a></h3>
-          <p>This pub in London it’s a picture-perfect setting to enjoy mid-morning coffees, leisurely lunches and comforting
-             dinners alike.
-             Built in 1829, the grand corner building that houses the Princess Victoria was originally
-             a Victorian gin palace and tram stop.
-          </p>
+              <div class="pswp__caption">
+                  <div class="pswp__caption__center"></div>
+              </div>
+            </div>
+          </div>
         </div>
-      </article>
-      <article class="work-article g-wrapper u-cf ar-london">
-        <div class="work-txt">
-          <h3><a href="http://artistresidencelondon.co.uk/" target="_blank">Artistresidence London</a></h3>
-          <p>A 10 bedroom boutique hotel with a cool cocktail bar & all-day restaurant,
-             nestled in a peaceful setting just 5 minutes walk from Victoria Station & the hustle &
-             bustle of Central London.
-          </p>
-        </div>
-      </article>
-      <article class="work-article g-wrapper u-cf ar-cornwall">
-        <div class="work-txt">
-          <h3><a href="http://artistresidencecornwall.co.uk/" target="_blank">Artistresidence Cornwall</a></h3>
-          <p>Quirky Hotel In Cornwall. Tucked away in the old quarter of Penzance in a historic Georgian House, this is
-             a fun & friendly boutique retreat featuring 13 bedrooms and 5 apartments. Perfect for exploring West Cornwall.
-          </p>
-        </div>
-      </article>
-      <article class="work-article g-wrapper u-cf ar-brighton">
-        <div class="work-txt">
-          <h3><a href="http://artistresidencebrighton.co.uk/" target="_blank">Artistresidence Brighton</a></h3>
-          <p>Unique Hotel In Brighton. A 23-bedroom townhouse hotel with 2 restaurants, cocktail
-             bar and ping-pong room centrally located in historic Regency Square with sea-views over the iconic West Pier.
-          </p>
-        </div>
-      </article>
-      <article class="work-article g-wrapper u-cf artistresidence">
-        <div class="work-txt">
-          <h3><a href="http://www.artistresidence.co.uk/" target="_blank">Artistresidence</a></h3>
-          <p>An eccentric bunch of fun and friendly hotels in London, Brighton and Cornwall.
-             With each room designed by a different artist, it's an utterly charming place to stay.
-          </p>
-        </div>
-      </article>
-      <article class="work-article g-wrapper u-cf bluefin">
-        <div class="work-txt">
-          <h3><a href="http://www.bluefinnyc.com/" target="_blank">Blue Fin</a></h3>
-          <p>A modern seafood restaurant, where Broadway energy meets quiet sophistication.
-             Located in the heart of Times Square, in New York; Blue Fin is sophisticated and sexy, and
-             offers the freshest sushi, seafood and raw bar.
-          </p>
-        </div>
-      </article>
-      <article class="work-article g-wrapper u-cf gliffaeshotel">
-        <div class="work-txt">
-          <h3><a href="http://www.gliffaeshotel.com/" target="_blank">Gliffaes Hotel</a></h3>
-          <p>In the heart of the Brecon Beacons National Park, in Walles, Gliffaes is one of the last real fishing hotels,
-             this relaxing haven is located off the beaten track in 33 acres of stunning grounds,
-             surrounded by magnificent trees and next to the River Usk.
-          </p>
-        </div>
-      </article>
-      <article class="work-article g-wrapper u-cf emilyhankins">
-        <div class="work-txt">
-          <h3><a href="http://emilyhankins.co.uk/" target="_blank">Emily Hankins</a></h3>
-          <p>Emily Hankins is a Cornish based artist and designer with a passion for cake and a love
-             of all things vintage and handmade. Seeing an increased demand for individual and bespoke
-             weddings with a vintage, homemade and eclectic feel she decided to launch her own business
-             creating beautifully handcrafted and hand painted cakes.
-          </p>
-        </div>
-      </article>
-    </section>
+
+      </div>
 
     <section class="section-ctaction edge-css">
       <?php include("partials/get-in-touch.php"); ?>
