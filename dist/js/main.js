@@ -1,6 +1,6 @@
 
 
-const allPhotos = {
+var allPhotos = {
   VendorDetails: [
     {
       src: 'dist/images/vendor-details-1.png',
@@ -235,84 +235,112 @@ const allPhotos = {
   ],
   SalesPredictor: [
     {
-      src: 'https://placeimg.com/964/1024/animals',
-      w: 964,
-      h: 1024
+      src: 'dist/images/sales-predictor-1.png',
+      w: 1305,
+      h: 1288
     },
     {
-      src: 'https://placeimg.com/1024/683/animals',
-      w: 1024,
-      h: 683
+      src: 'dist/images/sales-predictor-2.png',
+      w: 1330,
+      h: 839
+    },
+    {
+      src: 'dist/images/sales-predictor-3.png',
+      w: 1293,
+      h: 787
     }
   ],
   ValuationExpert: [
     {
-      src: 'https://placeimg.com/964/1024/architecture',
-      w: 964,
-      h: 1024
+      src: 'dist/images/local-valuation-expert-1.png',
+      w: 1220,
+      h: 1027
     },
     {
-      src: 'https://placeimg.com/1024/683/architecture',
-      w: 1024,
-      h: 683
+      src: 'dist/images/local-valuation-expert-2.png',
+      w: 1220,
+      h: 906
+    },
+    {
+      src: 'dist/images/local-valuation-expert-3.png',
+      w: 1220,
+      h: 782
     }
   ],
   ChefsClub: [
     {
-      src: 'https://placeimg.com/964/1024/nature',
-      w: 964,
-      h: 1024
+      src: 'dist/images/chefs-club-1.jpg',
+      w: 2858,
+      h: 3818
     },
     {
-      src: 'https://placeimg.com/1024/683/nature',
-      w: 1024,
-      h: 683
+      src: 'dist/images/chefs-club-2.jpg',
+      w: 1429,
+      h: 2601
+    },
+    {
+      src: 'dist/images/chefs-club-3.jpg',
+      w: 1429,
+      h: 990
     }
   ],
   ArtistResidence: [
     {
-      src: 'https://placeimg.com/964/1024/people',
-      w: 964,
-      h: 1024
+      src: 'dist/images/artist-residence-1.jpg',
+      w: 1400,
+      h: 1204
     },
     {
-      src: 'https://placeimg.com/1024/683/people',
-      w: 1024,
-      h: 683
+      src: 'dist/images/artist-residence-2.jpg',
+      w: 1220,
+      h: 1626
     }
   ],
   BlueFin: [
     {
-      src: 'https://placeimg.com/964/1024/any',
-      w: 964,
-      h: 1024
+      src: 'dist/images/blue-fin-1.jpg',
+      w: 1400,
+      h: 702
     },
     {
-      src: 'https://placeimg.com/1024/683/any',
-      w: 1024,
-      h: 683
+      src: 'dist/images/blue-fin-2.jpg',
+      w: 1220,
+      h: 578
+    },
+    {
+      src: 'dist/images/blue-fin-3.jpg',
+      w: 1220,
+      h: 581
+    },
+    {
+      src: 'dist/images/blue-fin-4.jpg',
+      w: 1220,
+      h: 669
     }
   ],
   GliffaesHotel: [
     {
-      src: 'https://placeimg.com/964/1024/any',
-      w: 964,
-      h: 1024
+      src: 'dist/images/gliffaes-hotel-1.jpg',
+      w: 1220,
+      h: 865
     },
     {
-      src: 'https://placeimg.com/1024/683/any',
-      w: 1024,
-      h: 683
+      src: 'dist/images/gliffaes-hotel-2.jpg',
+      w: 908,
+      h: 1830
     }
   ]
 };
 
-const allCardsList = document.querySelectorAll('[data-gallery]');
-allCardsList.forEach(card => card.addEventListener('click', openPhotoSwipe));
+var allCardsList = document.querySelectorAll('[data-gallery]');
+
+allCardsList.forEach(function(card) {
+  card.addEventListener('click', openPhotoSwipe);
+});
 
 function openPhotoSwipe() {
-  const cardKey = this.dataset.gallery;
-  const gallery = new PhotoSwipe(
+  var cardKey = this.dataset.gallery;
+  var gallery = new PhotoSwipe(
     document.querySelector('.pswp'),
     PhotoSwipeUI_Default,
     allPhotos[cardKey],
