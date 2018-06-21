@@ -18,8 +18,7 @@
 
   <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
 
-  <!-- <link rel="stylesheet" href="css/main.css"> -->
-  <link rel="stylesheet" href="dist/css/main.min.css">
+  <link rel="stylesheet" href="dist/css/main.min.1.css">
 </head>
 
 <body>

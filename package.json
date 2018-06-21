@@ -4,8 +4,8 @@
   "description": "Super lightweight boilerplate for frontend development (scss, npm scripts)",
   "scripts": {
     "precss": "mkdir -p dist/css && rm -r dist/css && mkdir dist/css",
-    "css": "node-sass  --output-style compressed  src/scss/main.scss > dist/css/main.min.css",
-    "postcss": "postcss --config postcss.plugins.json -r dist/css/main.min.css",
+    "css": "node-sass  --output-style compressed  src/scss/main.scss > dist/css/main.min.1.css",
+    "postcss": "postcss --config postcss.plugins.json -r dist/css/main.min.1.css",
     "prejs": "mkdir -p dist/js && rm -r dist/js && mkdir dist/js",
     "js": "concat-cli -f src/js/vendor/*.js src/js/*.js -o dist/js/main.js",
     "postjs": "uglifyjs dist/js/main.js -m -c -o dist/js/main.min.js",
