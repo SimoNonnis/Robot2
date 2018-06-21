@@ -268,8 +268,8 @@ var allPhotos = {
   ChefsClub: [
     {
       src: 'dist/images/chefs-club-1.jpg',
-      w: 2858,
-      h: 3818
+      w: 1220,
+      h: 1630
     },
     {
       src: 'dist/images/chefs-club-2.jpg',
@@ -336,7 +336,9 @@ allCardsList.forEach(function(card) {
   card.addEventListener('click', openPhotoSwipe);
 });
 
-function openPhotoSwipe() {
+function openPhotoSwipe(e) {
+  e.preventDefault();
+
   var cardKey = this.dataset.gallery;
   var gallery = new PhotoSwipe(
     document.querySelector('.pswp'),
