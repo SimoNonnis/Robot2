@@ -2,4 +2,4 @@
 Robot2
 ======
 
-Php version of my portfolio website: [ http://robot2.org/ ]
+This is my portfolio website: [ http://robot2.org/ ]
