@@ -2,7 +2,7 @@
   <div class="g-wrapper footer-container u-cf">
     <p class="footer-email">
       <strong>email:</strong>
-      <span>simon.nonnis@protonmail.com</span>
+      <span>simon.nonnis@hey.com</span>
     </p>
     
     <nav class="footer-nav">
