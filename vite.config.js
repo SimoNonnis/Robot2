@@ -1,5 +1,6 @@
-import handlebars from "vite-plugin-handlebars";
+import { defineConfig } from "vite";
+import vitePluginPartial from "vite-plugin-partial";
 
-export default {
-  plugins: [handlebars()],
-};
+export default defineConfig({
+  plugins: [vitePluginPartial.default()],
+});
