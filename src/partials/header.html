@@ -1,20 +1,22 @@
-<header role="banner">
-  <h1 class="w-20 h-20">
-    <a
-      class="transition hover:drop-shadow-2xl focus:outline-gray-100"
-      href="http://nonnis.ru"
-      target="_blank"
-    >
-      <img src="src/images/svg/robot.svg" class="logo" alt="robot logo" />
-    </a>
-  </h1>
-
-  <nav role="navigation">
-    <ul>
-      <li><a href="/">home</a></li>
-      <li><a href="#about">about</a></li>
-      <li><a href="#work">work</a></li>
-      <li><a href="#contact">contact</a></li>
-    </ul>
-  </nav>
+<header role="navigation" class="sticky top-0 bg-stone-900">
+  <ul
+    class="p-2 grid grid-cols-5 gap-2 sm:gap-4 items-center justify-items-center sm:max-w-xl mx-auto uppercase"
+  >
+    <li><a href="/">home</a></li>
+    <li><a href="#about">about</a></li>
+    <li>
+      <h1 class="w-16 h-16 sm:w-20 sm:h-20">
+        <a
+          class="transition hover:drop-shadow-2xl focus:outline-gray-100"
+          href="http://nonnis.ru"
+          target="_blank"
+        >
+          <img src="src/images/svg/robot.svg" class="logo" alt="robot logo" />
+        </a>
+      </h1>
+    </li>
+    <li><a href="#work">work</a></li>
+    <li><a href="#contact">contact</a></li>
+  </ul>
+  <vite-partial src="divider.html" />
 </header>
