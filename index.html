@@ -48,4 +48,17 @@
       <vite-partial src="src/partials/footer.html" />
     </div>
   </body>
+
+  <script>
+    var buttonLight = document.getElementById("button-light");
+    var buttonDark = document.getElementById("button-dark");
+
+    buttonLight.addEventListener("click", function () {
+      this.classList.toggle("toogle-theme");
+    });
+
+    buttonDark.addEventListener("click", function () {
+      this.classList.toggle("toogle-theme");
+    });
+  </script>
 </html>
