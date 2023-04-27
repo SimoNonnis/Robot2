@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .toogle-theme {
-  @apply border-amber-300 text-amber-300 cursor-not-allowed;
+  @apply border-amber-500 text-amber-500 dark:border-amber-300 dark:text-amber-300 cursor-not-allowed;
 }
