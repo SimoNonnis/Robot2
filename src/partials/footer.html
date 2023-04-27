@@ -5,6 +5,13 @@
         src="src/images/robot.svg"
         class="w-14 h-14 animate-pulse animate-infinite animate-duration-[4000ms]"
         alt="robot logo" /></a
-    ><span>&nbsp;&copy;&nbsp;2023</span>
+    ><span>&nbsp;&copy;&nbsp;</span>
+    <span id="copyright">
+      <script>
+        document
+          .getElementById("copyright")
+          .appendChild(document.createTextNode(new Date().getFullYear()));
+      </script>
+    </span>
   </p>
 </footer>
